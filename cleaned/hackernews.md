@@ -109,5 +109,3 @@ Another promising idea is the _stupid filter_, which is just like a probabilisti
 You may not have to kill bad comments to solve the problem. Comments at the bottom of a long thread are rarely seen, so it may be enough to incorporate a prediction of quality in the comment sorting algorithm.
 
 [^7]: What makes most suburbs so demoralizing is that there's no center to walk to.
-
-Thanks to Justin Kan, Jessica Livingston, Robert Morris, Alexis Ohanian, Emmet Shear, and Fred Wilson for reading drafts of this.

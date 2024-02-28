@@ -49,5 +49,3 @@ If you're nice, as well as wise, you won't merely resist attacking such people, 
 [^4]: This is one reason people with a touch of Asperger's may have an advantage in discovering new ideas. They're always flying on instruments.
 
 [^5]: Hall, Rupert. From Galileo to Newton. Collins, 1963. This book is particularly good at getting into contemporaries' heads.
-
-Thanks to Trevor Blackwell, Patrick Collison, Suhail Doshi, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.

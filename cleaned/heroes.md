@@ -113,5 +113,3 @@ Newton has a strange role in my pantheon of heroes: he's the one I reproach myse
 To do really great things, you have to seek out questions people didn't even realize were questions. There have probably been other people who did this as well as Newton, for their time, but Newton is my model of this kind of thought. I can just begin to understand what it must have felt like for him.
 
 You only get one life. Why not do something huge? The phrase "paradigm shift" is overused now, but Kuhn was onto something. And you know more are out there, separated from us by what will later seem a surprisingly thin wall of laziness and stupidity. If we work like Newton.
-
-Thanks to Trevor Blackwell, Jessica Livingston, and Jackie McDonough for reading drafts of this.

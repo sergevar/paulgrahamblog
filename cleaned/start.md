@@ -287,5 +287,3 @@ If you want to do it, do it. Starting a startup is not the great mystery it seem
 [8] I was as bad an employee as this place was a company. I apologize to anyone who had to work with me there.
 
 [9] You could probably write a book about how to succeed in business by doing everything in exactly the opposite way from the DMV.
-
-Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this essay, and to Steve Melendez and Gregory Price for inviting me to speak.

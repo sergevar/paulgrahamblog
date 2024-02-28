@@ -1,4 +1,5 @@
-How to Disagree
+# How to Disagree
+
 March 2008
 
 The web is turning writing into a conversation. Twenty years ago, writers wrote and readers read. The web lets readers respond, and increasingly they do—in comment threads, on forums, and in their own blog posts.
@@ -9,7 +10,7 @@ The result is there's a lot more disagreeing going on, especially measured by th
 
 If we're all going to be disagreeing more, we should be careful to do it well. What does it mean to disagree well? Most readers can tell the difference between mere name-calling and a carefully reasoned refutation, but I think it would help to put names on the intermediate stages. So here's an attempt at a disagreement hierarchy:
 
-**DH0. Name-calling.**
+## DH0. Name-calling.
 
 This is the lowest form of disagreement, and probably also the most common. We've all seen comments like this:
 > u r a fag!!!!!!!!!!
@@ -19,7 +20,7 @@ But it's important to realize that more articulate name-calling has just as litt
 
 is really nothing more than a pretentious version of "u r a fag."
 
-**DH1. Ad Hominem.**
+## DH1. Ad Hominem.
 
 An ad hominem attack is not quite as weak as mere name-calling. It might actually carry some weight. For example, if a senator wrote an article saying senators' salaries should be increased, one could respond:
 > Of course he would say that. He's a senator.
@@ -28,7 +29,7 @@ This wouldn't refute the author's argument, but it may at least be relevant to t
 
 Saying that an author lacks the authority to write about a topic is a variant of ad hominem—and a particularly useless sort, because good ideas often come from outsiders. The question is whether the author is correct or not. If his lack of authority caused him to make mistakes, point those out. And if it didn't, it's not a problem.
 
-**DH2. Responding to Tone.**
+## DH2. Responding to Tone.
 
 The next level up we start to see responses to the writing, rather than the writer. The lowest form of these is to disagree with the author's tone. E.g.
 > I can't believe the author dismisses intelligent design in such a cavalier fashion.
@@ -37,7 +38,7 @@ Though better than attacking the author, this is still a weak form of disagreeme
 
 So if the worst thing you can say about something is to criticize its tone, you're not saying much. Is the author flippant, but correct? Better that than grave and wrong. And if the author is incorrect somewhere, say where.
 
-**DH3. Contradiction.**
+## DH3. Contradiction.
 
 In this stage we finally get responses to what was said, rather than how or by whom. The lowest form of response to an argument is simply to state the opposing case, with little or no supporting evidence.
 
@@ -46,7 +47,7 @@ This is often combined with DH2 statements, as in:
 
 Contradiction can sometimes have some weight. Sometimes merely seeing the opposing case stated explicitly is enough to see that it's right. But usually evidence will help.
 
-**DH4. Counterargument.**
+## DH4. Counterargument.
 
 At level 4 we reach the first form of convincing disagreement: counterargument. Forms up to this point can usually be ignored as proving nothing. Counterargument might prove something. The problem is, it's hard to say exactly what.
 
@@ -54,7 +55,7 @@ Counterargument is contradiction plus reasoning and/or evidence. When aimed squa
 
 There could be a legitimate reason for arguing against something slightly different from what the original author said: when you feel they missed the heart of the matter. But when you do that, you should say explicitly you're doing it.
 
-**DH5. Refutation.**
+## DH5. Refutation.
 
 The most convincing form of disagreement is refutation. It's also the rarest, because it's the most work. Indeed, the disagreement hierarchy forms a kind of pyramid, in the sense that the higher you go the fewer instances you find.
 
@@ -62,7 +63,7 @@ To refute someone you probably have to quote them. You have to find a "smoking g
 
 While refutation generally entails quoting, quoting doesn't necessarily imply refutation. Some writers quote parts of things they disagree with to give the appearance of legitimate refutation, then follow with a response as low as DH3 or even DH0.
 
-**DH6. Refuting the Central Point.**
+## DH6. Refuting the Central Point.
 
 The force of a refutation depends on what you refute. The most powerful form of disagreement is to refute someone's central point.
 
@@ -75,7 +76,7 @@ Truly refuting something requires one to refute its central point, or at least o
 
 The quotation you point out as mistaken need not be the actual statement of the author's main point. It's enough to refute something it depends upon.
 
-**What It Means**
+## What It Means
 
 Now we have a way of classifying forms of disagreement. What good is it? One thing the disagreement hierarchy doesn't give us is a way of picking a winner. DH levels merely describe the form of a statement, not whether it's correct. A DH6 response could still be completely mistaken.
 
@@ -88,5 +89,3 @@ Such labels may help writers too. Most intellectual dishonesty is unintentional.
 But the greatest benefit of disagreeing well is not just that it will make conversations better, but that it will make the people who have them happier. If you study conversations, you find there is a lot more meanness down in DH1 than up in DH6. You don't have to be mean when you have a real point to make. In fact, you don't want to. If you have something real to say, being mean just gets in the way.
 
 If moving up the disagreement hierarchy makes people less mean, that will make most of them happier. Most people don't really enjoy being mean; they do it because they can't help it.
-
-Thanks to Trevor Blackwell and Jessica Livingston for reading drafts of this.

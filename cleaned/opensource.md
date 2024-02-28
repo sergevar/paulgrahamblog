@@ -162,5 +162,3 @@ That may be the greatest effect, in the long run, of the forces underlying open 
 [^5]: They accepted the article, but I took so long to send them the final version that by the time I did the section of the magazine they'd accepted it for had disappeared in a reorganization.
 
 [^6]: The word "boss" is derived from the Dutch baas, meaning "master."
-
-Thanks to Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.

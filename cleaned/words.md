@@ -34,4 +34,3 @@ Putting ideas into words is certainly no guarantee that they'll be right. Far fr
 
 It can be very useful to talk (in either sense) with other people as you're writing something. But a verbal conversation will never be more exacting than when you're talking about something you're writing.
 
-Thanks to Trevor Blackwell, Patrick Collison, and Robert Morris for reading drafts of this.

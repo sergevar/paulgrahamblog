@@ -150,5 +150,3 @@ If so, this is good news indeed. Good ideas always tend to win eventually. The p
 Siegel, Jeremy J. "What Is an Asset Price Bubble? An Operational Definition." European Financial Management, 9:1, 2003.
 
 [2] The number of users comes from a 6/03 Nielsen study quoted on Google's site. (You'd think they'd have something more recent.) The revenue estimate is based on revenues of $1.35 billion for the first half of 2004, as reported in their IPO filing.
-
-Thanks to Chris Anderson, Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.

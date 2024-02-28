@@ -89,5 +89,3 @@ Scribes in ancient Egypt took exams, but they were more the type of proficiency 
 [^2]: When I say the raison d'etre of prep schools is to get kids into better colleges, I mean this in the narrowest sense. I'm not saying that's all prep schools do, just that if they had zero effect on college admissions there would be far less demand for them.
 
 [^3]: Progressive tax rates will tend to damp this effect, however, by decreasing the difference between good and bad measurers.
-
-Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and David Sloo for reading drafts of this.

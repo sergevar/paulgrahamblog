@@ -51,7 +51,3 @@ So in effect what's happened is that a new ecological niche has opened up, and Y
 It's not surprising something like this would happen. Most fields become more specialized—more articulated—as they develop, and startups are certainly an area in which there has been a lot of development over the past couple decades. The venture business in its present form is only about forty years old. It stands to reason it would evolve.
 
 And it's natural that the new niche would at first be described, even by its inhabitants, in terms of the old one. But really Y Combinator is not in the startup funding business. Really we're more of a small, furry steam catapult.
-
-Thanks to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-Comment on this essay.

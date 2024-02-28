@@ -43,5 +43,3 @@ Incidentally, Google may appear to be an instance of a type II startup, but it w
 [^2]: Watt didn't invent the steam engine. His critical invention was a refinement that made steam engines dramatically more efficient: the separate condenser. But that oversimplifies his role. He had such a different attitude to the problem and approached it with such energy that he transformed the field. Perhaps the most accurate way to put it would be to say that Watt reinvented the steam engine.
 
 [^3]: The biggest counterexample here is Skype. If you're doing something that would get shut down in the US, it becomes an advantage to be located elsewhere. That's why Kazaa took the place of Napster. And the expertise and connections the founders gained from running Kazaa helped ensure the success of Skype.
-
-Thanks to Patrick Collison, Jessica Livingston, and Fred Wilson for reading drafts of this.

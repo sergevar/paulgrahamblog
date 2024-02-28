@@ -127,5 +127,3 @@ but now we've decided it's going to be
 [^7]: You need to offer especially large rewards to get great people to do tedious work. That's why startups always pay equity rather than just salary.
 
 [^8]: Buy an **old** copy from the 1940s or 50s instead of the current edition, which has been rewritten to suit present fashions. The original edition contained a few unPC ideas, but it's always better to read an original book, bearing in mind that it's a book from a past era, than to read a new version sanitized for your protection.
-
-Thanks to Bill Birch, Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.

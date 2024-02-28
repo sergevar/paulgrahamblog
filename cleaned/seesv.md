@@ -51,5 +51,3 @@ SLAC goes right under 280 a little bit south of Sand Hill Road. And a couple mil
 ### Notes
 
 I skipped the Computer History Museum because this is a list of where to see the Valley itself, not where to see artifacts from it. I also skipped San Jose. San Jose calls itself the capital of Silicon Valley, but when people in the Valley use the phrase "the city," they mean San Francisco. San Jose is a dotted line on a map.
-
-Thanks to Sam Altman, Paul Buchheit, Patrick Collison, and Jessica Livingston for reading drafts of this.

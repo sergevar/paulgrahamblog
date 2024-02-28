@@ -27,5 +27,3 @@ It may be possible to convince some people that orthodox privilege must exist ev
 But in general I don't think it will work to say "check your privilege" about this type of privilege, because those in its demographic don't realize they're in it. It doesn't seem to conventional-minded people that they're conventional-minded. It just seems to them that they're right. Indeed, they tend to be particularly sure of it.
 
 Perhaps the solution is to appeal to politeness. If someone says they can hear a high-pitched noise that you can't, it's only polite to take them at their word, instead of demanding evidence that's impossible to produce, or simply denying that they hear anything. Imagine how rude that would seem. Similarly, if someone says they can think of things that are true but that cannot be said, it's only polite to take them at their word, even if you can't think of any yourself.
-
-Thanks to Sam Altman, Trevor Blackwell, Patrick Collison, Antonio Garcia-Martinez, Jessica Livingston, Robert Morris, Michael Nielsen, Geoff Ralston, Max Roser, and Harj Taggar for reading drafts of this.

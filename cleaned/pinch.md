@@ -59,5 +59,3 @@ The good news is, plenty of successful startups have passed through near-death e
 [3] Obviously, if you have significant expenses other than salaries that you can eliminate, do it now.
 
 [4] Unless of course the source of the problem is that you're paying yourselves high salaries. If by cutting the founders' salaries to the minimum you need, you can make it to profitability, you should. But it's a bad sign if you needed to read this to realize that.
-
-Thanks to Sam Altman, Paul Buchheit, Jessica Livingston, and Geoff Ralston for reading drafts of this.

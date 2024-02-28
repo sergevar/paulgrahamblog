@@ -117,5 +117,3 @@ The exciting thing is not that there's a lot left to write, but that there's a l
 [1] Put railings on the balconies, but don't put bars on the windows.
 
 [2] Even now I sometimes write essays that are not meant for publication. I wrote several to figure out what Y Combinator should do, and they were really helpful.
-
-**Thanks to Trevor Blackwell, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.**

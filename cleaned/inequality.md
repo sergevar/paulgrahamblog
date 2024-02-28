@@ -204,6 +204,3 @@ kill.
 [5] The speed at which startups develop new techology is the other reason they pay so well. As I explained in "How to Make Wealth", what
 you do in a startup is compress a lifetime's worth of work into a few years. It seems as dumb to discourage that as to discourage risk-
 taking.
-
-Thanks to Chris Anderson, Trevor Blackwell, Dan Giffin, Jessica Livingston, and Evan Williams for reading drafts of this essay, and to
-Langley Steinert, Sangam Pant, and Mike Moritz for information about venture investing.

@@ -168,5 +168,3 @@ I don't think it's publication that makes the best hackers want to work in resea
 [6] Something similar has been happening for a long time in the construction industry. When you had a house built a couple hundred years ago, the local builders built everything in it. But increasingly what builders do is assemble components designed and manufactured by someone else. This has, like the arrival of desktop publishing, given people the freedom to experiment in disastrous ways, but it is certainly more efficient.
 
 [7] Google is much more dangerous to Microsoft than Netscape was. Probably more dangerous than any other company has ever been. Not least because they're determined to fight. On their job listing page, they say that one of their "core values'' is "Don't be evil.'' From a company selling soybean oil or mining equipment, such a statement would merely be eccentric. But I think all of us in the computer world recognize who that is a declaration of war on.
-
-Thanks to Jessica Livingston, Robert Morris, and Sarah Harlin for reading earlier versions of this talk.

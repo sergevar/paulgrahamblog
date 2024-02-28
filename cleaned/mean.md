@@ -43,5 +43,3 @@ So I'm really glad I stopped to think about this. Jessica and I have always work
 [^4]: To be fair, the Romans didn't mean to kill Archimedes. The Roman commander specifically ordered that he be spared. But he got killed in the chaos anyway.
 
 In sufficiently disordered times, even thinking requires control of scarce resources, because living at all is a scarce resource.
-
-Thanks to Sam Altman, Ron Conway, Daniel Gackle, Jessica Livingston, Robert Morris, Geoff Ralston, and Fred Wilson for reading drafts of this.

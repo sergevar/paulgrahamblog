@@ -15,5 +15,3 @@ A friend of mine who knows nearly all the widely used languages uses Python for 
 At the mention of ugly source code, people will of course think of Perl. But the superficial ugliness of Perl is not the sort I mean. Real ugliness is not harsh-looking syntax, but having to build programs out of the wrong concepts. Perl may look like a cartoon character swearing, but there are cases where it surpasses Python conceptually.
 
 So far, anyway. Both languages are of course moving targets. But they share, along with Ruby (and Icon, and Joy, and J, and Lisp, and Smalltalk) the fact that they're created by, and used by, people who really care about programming. And those tend to be the ones who do it well.
-
-If you liked this, you may also like *Hackers & Painters*.

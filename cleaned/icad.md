@@ -261,8 +261,6 @@ This practice is not only common, but institutionalized. For example, in the OO 
 
 - Peter Norvig found that 16 of the 23 patterns in Design Patterns were "invisible or simpler" in Lisp.
 
-- Thanks to the many people who answered my questions about various languages and/or read drafts of this, including Ken Anderson, Trevor Blackwell, Erann Gat, Dan Giffin, Sarah Harlin, Jeremy Hylton, Robert Morris, Peter Norvig, Guy Steele, and Anton van Straaten. They bear no blame for any opinions expressed.
-
 ## Related:
 
 Many people have responded to this talk, so I have set up an additional page to deal with the issues they have raised: Re: Revenge of the Nerds.

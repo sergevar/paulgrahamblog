@@ -29,5 +29,3 @@ So if you're a founder, here's a deal you can make with yourself that will both 
 [^2]: In fact since 2 ≈ 1.05^15, the un-rapacious founder is always 15 weeks behind the rapacious one.
 
 [^3]: The other reason it might help to be good at squeezing money out of customers is that startups usually lose money at first, and making more per customer makes it easier to get to profitability before your initial funding runs out. But while it is very common for startups to die from running through their initial funding and then being unable to raise more, the underlying cause is usually slow growth or excessive spending rather than insufficient effort to extract money from existing customers.
-
-Thanks to Sam Altman, Harj Taggar, Jessica Livingston, and Geoff Ralston for reading drafts of this, and to Randall Bennett for being such a nice guy.

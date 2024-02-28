@@ -156,5 +156,3 @@ In some cases the writing teachers were transformed in situ into English profess
 The study of rhetoric was inherited directly from Rome, where it was considered the most important subject. It would not be far from the truth to say that education in the classical world meant training landowners' sons to speak well enough to defend their interests in political and legal disputes.
 
 [6] Trevor Blackwell points out that this isn't strictly true, because the outside edges of curves erode faster.
-
-Thanks to Ken Anderson, Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, and Robert Morris for reading drafts of this.

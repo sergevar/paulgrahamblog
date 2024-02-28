@@ -108,5 +108,3 @@ There were a couple predecessors. Ron Conway had angel funds starting in the 199
 [^6]: The best thing for founders, if they can get it, is a convertible note with no valuation cap at all. In that case the money invested in the angel round just converts into stock at the valuation of the next round, no matter how large. Angels and super-angels tend not to like uncapped notes. They have no idea how much of the company they're buying. If the company does well and the valuation of the next round is high, they may end up with only a sliver of it. So by agreeing to uncapped notes, VCs who don't care about valuations in angel rounds can make offers that super-angels hate to match.
 
 [^7]: Obviously signalling risk is also not a problem if you'll never need to raise more money. But startups are often mistaken about that.
-
-Thanks to Sam Altman, John Bautista, Patrick Collison, James Lindenbaum, Reid Hoffman, Jessica Livingston and Harj Taggar for reading drafts of this.

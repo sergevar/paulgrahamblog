@@ -67,5 +67,3 @@ If you want to work on big things, you seem to have to trick yourself into doing
 When I talk to people who've managed to make themselves work on big things, I find that all blow off errands, and all feel guilty about it. I don't think they should feel guilty. There's more to do than anyone could. So someone doing the best work they can is inevitably going to leave a lot of errands undone. It seems a mistake to feel bad about that.
 
 I think the way to "solve" the problem of procrastination is to let delight pull you instead of making a to-do list push you. Work on an ambitious project you really enjoy, and sail as close to the wind as you can, and you'll leave the right things undone.
-
-Thanks to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.

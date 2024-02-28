@@ -48,6 +48,4 @@ It's hard enough to overcome one's own misconceptions without having to think ab
 
 [^3]: Come to think of it, there is one way in which I deliberately pander to readers, because it doesn't change the number of words: I switch person. This flattering distinction seems so natural to the average reader that they probably don't notice even when I switch in mid-sentence, though you tend to notice when it's done as conspicuously as this.
 
-Thanks to Jessica Livingston and Robert Morris for reading drafts of this.
-
 Note: An earlier version of this essay began by talking about why people dislike Michael Arrington. I now believe that was mistaken, and that most people don't dislike him for the same reason I did when I first met him, but simply because he writes about controversial things.

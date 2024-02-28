@@ -43,5 +43,3 @@ Those ways of using intelligence are much more common than having new ideas. And
 [^3]: Some would attribute the difference between intelligence and having new ideas to "creativity," but this doesn't seem a very useful term. As well as being pretty vague, it's shifted half a frame sideways from what we care about: it's neither separable from intelligence, nor responsible for all the difference between intelligence and having new ideas.
 
 [^4]: Curiously enough, this essay is an example. It started out as an essay about writing ability. But when I came to the distinction between intelligence and having new ideas, that seemed so much more important that I turned the original essay inside out, making that the topic and my original topic one of the points in it. As in many other fields, that level of reworking is easier to contemplate once you've had a lot of practice.
-
-Thanks to Trevor Blackwell, Patrick Collison, Jessica Livingston, Robert Morris, Michael Nielsen, and Lisa Randall for reading drafts of this.

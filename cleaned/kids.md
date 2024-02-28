@@ -55,5 +55,3 @@ People's experiences as parents vary a lot, and I know I've been lucky. But I th
 > **Note**
 > 
 > [1] Adults are sophisticated enough to see 2 year olds for the fascinatingly complex characters they are, whereas to most 6 year olds, 2 year olds are just defective 6 year olds.
-
-Thanks to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.

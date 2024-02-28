@@ -47,5 +47,3 @@ Since haters are equivalent to fanboys, that's the way to deal with them too. Th
 3. I have a much worse memory for misdeeds than my wife Jessica, who is a connoisseur of character, but I don't wish it were better. Most disputes are a waste of time even if you're in the right, and it's easy to bury the hatchet with someone if you can't remember why you were mad at them.
 
 4. A competent hater will not merely attack you individually but will try to get mobs after you. In some cases you may want to refute whatever bogus claim they made in order to do so. But err on the side of not, because ultimately it probably won't matter.
-
-**Thanks to Austen Allred, Trevor Blackwell, Patrick Collison, Christine Ford, Daniel Gackle, Jessica Livingston, Robert Morris, Elon Musk, Harj Taggar, and Peter Thiel for reading drafts of this.**

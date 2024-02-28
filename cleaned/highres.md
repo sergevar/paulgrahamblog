@@ -57,5 +57,3 @@ Startups seem to go more against the grain, socially. It's hard for them to flou
 [^3]: It's possible that companies will one day be able to grow big in revenues without growing big in people, but we are not very far along that trend yet.
 
 [^4]: Lecuyer, Christophe, Making Silicon Valley, MIT Press, 2006.
-
-Thanks to Trevor Blackwell, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.

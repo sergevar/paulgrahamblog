@@ -64,5 +64,3 @@ though.
 There should probably be multiple blacklists. A single point of failure would be vulnerable both to attack and abuse.
 
 ## Thanks
-
-Thanks to Brian Burton, Bill Yerazunis, Dan Giffin, Eric Raymond, and Richard Jowsey for reading drafts of this.

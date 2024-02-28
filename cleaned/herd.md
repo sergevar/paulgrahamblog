@@ -31,5 +31,3 @@ While few startups will experience a stampede of interest, almost all will at le
 [^2]: Founders are often surprised by this, but investors can get very emotional. Or rather indignant; that's the main emotion I've observed; but it is very common, to the point where it sometimes causes investors to act against their own interests. I know of one investor who invested in a startup at a $15 million valuation cap. Earlier he'd had an opportunity to invest at a $5 million cap, but he refused because a friend who invested earlier had been able to invest at a $3 million cap.
 
 [^3]: If an investor pushes you hard to tell them about your conversations with other investors, is this someone you want as an investor?
-
-Thanks to Paul Buchheit, Jessica Livingston, Geoff Ralston, and Garry Tan for reading drafts of this.

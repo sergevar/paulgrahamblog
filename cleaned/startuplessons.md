@@ -186,5 +186,3 @@ So no, there's nothing particularly grand about making money. That's not what ma
 [^8]: The reason Y Combinator never negotiates valuations is that we're not professional negotiators, and don't want to turn into them.
 
 [^9]: There are two ways to do work you love: (a) to make money, then work on what you love, or (b) to get a job where you get paid to work on stuff you love. In practice the first phases of both consist mostly of unedifying schleps, and in (b) the second phase is less secure.
-
-Thanks to Sam Altman, Trevor Blackwell, Beau Hartshorne, Jessica Livingston, and Robert Morris for reading drafts of this.

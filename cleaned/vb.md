@@ -57,5 +57,3 @@ Relentlessly prune bullshit, don't wait to do things that matter, and savor the 
 [^1]: At first I didn't like it that the word that came to mind was one that had other meanings. But then I realized the other meanings are fairly closely related. Bullshit in the sense of things you waste your time on is a lot like intellectual bullshit.
 
 [^2]: I chose this example deliberately as a note to self. I get attacked a lot online. People tell the craziest lies about me. And I have so far done a pretty mediocre job of suppressing the natural human inclination to say "Hey, that's not true!"
-
-Thanks to Jessica Livingston and Geoff Ralston for reading drafts of this.

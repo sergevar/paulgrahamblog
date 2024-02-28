@@ -105,5 +105,3 @@ In the average American high school, you have a choice of pretending to do somet
 [^8]: It's ok to work on something to make a lot of money. You need to solve the money problem somehow, and there's nothing wrong with doing that efficiently by trying to make a lot at once. I suppose it would even be ok to be interested in money for its own sake; whatever floats your boat. Just so long as you're conscious of your motivations. The thing to avoid is unconsciously letting the need for money warp your ideas about what kind of work you find most interesting.
 
 [^9]: Many people face this question on a smaller scale with individual projects. But it's easier both to recognize and to accept a dead end in a single project than to abandon some type of work entirely. The more determined you are, the harder it gets. Like a Spanish Flu victim, you're fighting your own immune system: Instead of giving up, you tell yourself, I should just try harder. And who can say you're not right?
-
-Thanks to Trevor Blackwell, John Carmack, John Collison, Patrick Collison, Robert Morris, Geoff Ralston, and Harj Taggar for reading drafts of this.

@@ -39,14 +39,3 @@ Speculative meetings are terribly costly if you're on the maker's schedule, thou
 Till recently we weren't clear in our own minds about the source of the problem. We just took it for granted that we had to either blow our schedules or offend people. But now that I've realized what's going on, perhaps there's a third option: to write something explaining the two types of schedule. Maybe eventually, if the conflict between the manager's schedule and the maker's schedule starts to be more widely understood, it will become less of a problem.
 
 Those of us on the maker's schedule are willing to compromise. We know we have to have some number of meetings. All we ask from those on the manager's schedule is that they understand the cost.
-
-Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-Related:
-
-- [How to Do What You Love](https://s.turbifycdn.com/aah/paulgraham/how-to-get-new-ideas-5.gif)
-- [Good and Bad Procrastination](https://s.turbifycdn.com/aah/paulgraham/how-to-get-new-ideas-5.gif)
-- [Turkish Translation](https://s.turbifycdn.com/aah/paulgraham/how-to-get-new-ideas-5.gif)
-- [French Translation](https://s.turbifycdn.com/aah/paulgraham/how-to-get-new-ideas-5.gif)
-- [Korean Translation](https://s.turbifycdn.com/aah/paulgraham/how-to-get-new-ideas-5.gif)
-- [German Translation](https://s.turbifycdn.com/aah/paulgraham/how-to-get-new-ideas-5.gif)

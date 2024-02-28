@@ -62,6 +62,4 @@ Imagine an American president saying that today. Like the remarks of an outspoke
 
 Those in a position to impose rules naturally want them to be obeyed. But be careful what you ask for. You might get it.
 
-Thanks to Ken Anderson, Trevor Blackwell, Daniel Giffin, Sarah Harlin, Shiro Kawai, Jessica Livingston, Matz, Jackie McDonough, Robert Morris, Eric Raymond, Guido van Rossum, David Weinberger, and Steven Wolfram for reading drafts of this essay.
-
 (The image shows Steves Jobs and Wozniak with a "blue box." Photo by Margret Wozniak. Reproduced by permission of Steve Wozniak.)

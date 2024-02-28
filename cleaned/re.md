@@ -192,8 +192,6 @@ But becoming a Texas oilman was not in 1950 something one could aspire to the wa
 
 [24] I'm not claiming variation in productivity is the only cause of economic inequality in the US. But it's a significant cause, and it will become as big a cause as it needs to, in the sense that if you ban other ways to get rich, people who want to get rich will use this route instead.
 
-**Thanks to** Sam Altman, Trevor Blackwell, Paul Buchheit, Patrick Collison, Ron Conway, Chris Dixon, Benedict Evans, Richard Florida, Ben Horowitz, Jessica Livingston, Robert Morris, Tim O'Reilly, Geoff Ralston, Max Roser, Alexia Tsotsis, and Qasar Younis for reading drafts of this. Max also told me about several valuable sources.
-
 **Bibliography**
 
 Allen, Frederick Lewis. The Big Change. Harper, 1952.

@@ -21,5 +21,3 @@ I predict we'll see this technique used more in the future. The information need
 [^1]: This technique wouldn't work if the selection process looked for different things from different types of applicants—for example, if an employer hired men based on their ability but women based on their appearance.
 
 [^2]: As Paul Buchheit points out, First Round excluded their most successful investment, Uber, from the study. And while it makes sense to exclude outliers from some types of studies, studies of returns from startup investing, which is all about hitting outliers, are not one of them.
-
-Thanks to Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this.

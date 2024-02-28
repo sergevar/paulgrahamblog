@@ -128,5 +128,3 @@ is already the way things work at Lambda School. Lambda School doesn't have grad
 [10] People who think the recent increase in _economic inequality_ is due to changes in tax policy seem very naive to anyone with experience in startups. Different people are getting rich now than used to, and they're getting much richer than mere tax savings could make them.
 
 [11] Note to tiger parents: you may think you're training your kids to win, but if you're training them to win by hacking bad tests, you are, as parents so often do, training them to fight the last war.
-
-Thanks to Austen Allred, Trevor Blackwell, Patrick Collison, Jessica Livingston, Robert Morris, and Harj Taggar for reading drafts of this.

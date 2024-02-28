@@ -32,5 +32,3 @@ Sam Altman of Loopt is one of the most successful alumni, so we asked him what q
 Empirically it seems to be hard to start a startup with just one founder. Most of the big successes have two or three. And the relationship between the founders has to be strong. They must genuinely like one another, and work well together. Startups do to the relationship between the founders what a dog does to a sock: if it can be pulled apart, it will be.
 
 Emmett Shear and Justin Kan of Justin.tv are a good example of close friends who work well together. They've known each other since second grade. They can practically read one another's minds. I'm sure they argue, like all founders, but I have never once sensed any unresolved tension between them.
-
-Thanks to Jessica Livingston and Chris Steiner for reading drafts of this.

@@ -25,11 +25,3 @@ I could go on. There are hundreds of similar cases. In Florida alone, 29 death r
 Far from being rare, wrongful murder convictions are **very common**. Police are under pressure to solve a crime that has gotten a lot of attention. When they find a suspect, they want to believe he's guilty, and ignore or even destroy evidence suggesting otherwise. District attorneys want to be seen as effective and tough on crime, and in order to win convictions are willing to manipulate witnesses and withhold evidence. Court-appointed defense attorneys are overworked and often incompetent. There's a ready supply of criminals willing to give false testimony in return for a lighter sentence, suggestible witnesses who can be made to say whatever police want, and bogus "experts" eager to claim that science proves the defendant is guilty. And juries want to believe them, since otherwise some terrible crime remains unsolved.
 
 This circus of incompetence and dishonesty is the real issue with the death penalty. We don't even reach the point where theoretical questions about the moral justification or effectiveness of capital punishment start to matter, because so many of the people sentenced to death are actually innocent. Whatever it means in theory, in practice capital punishment means killing innocent people.
-
-Thanks to Trevor Blackwell, Jessica Livingston, and Don Knight for reading drafts of this.
-
-Related:
-
-- Will Florida Kill an Innocent Man?
-- Was Kevin Cooper Framed for Murder?
-- Did Texas execute an innocent man?

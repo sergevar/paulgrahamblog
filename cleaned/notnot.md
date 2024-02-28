@@ -226,5 +226,3 @@ That's ultimately what drives us to work on Y Combinator. We want to make money,
 [^3]: There need to be some number of big companies to acquire the startups, so the number of big companies couldn't decrease to zero.
 
 [^4]: Thought experiment: If doctors did the same work, but as impoverished outcasts, which parents would still want their kids to be doctors?
-
-Thanks to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this, to the founders of Zenter for letting me use their web-based PowerPoint killer even though it isn't launched yet, and to Ming-Hay Luk of the Berkeley CSUA for inviting me to speak.

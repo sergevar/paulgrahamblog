@@ -53,5 +53,3 @@ And that's why startups thrive in startup hubs like Silicon Valley. Startups are
 [^1]: The nationalistic idea is the converse: that startups should stay in a certain city because of the country it's in. If you really have a "one world" viewpoint, deciding to move from London to Silicon Valley is no different from deciding to move from Chicago to Silicon Valley.
 
 [^2]: An investor who merely seems like he will fund you, however, you can ignore. Seeming like they will fund you one day is the way investors say No.
-
-Thanks to Sam Altman, Jessica Livingston, Harjeet Taggar, and Kulveer Taggar for reading drafts of this.

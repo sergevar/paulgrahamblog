@@ -15,5 +15,3 @@ Corollary: the more general the ideas you're talking about, the less you should 
 And of course, ideas beget ideas. (That sounds familiar.) An idea with a small amount of novelty could lead to one with more. But only if you keep going. So it's doubly important not to let yourself be discouraged by people who say there's not much new about something you've discovered. "Not much new" is a real achievement when you're talking about the most general ideas.
 
 It's not true that there's nothing new under the sun. There are some domains where there's almost nothing new. But there's a big difference between nothing and almost nothing, when it's multiplied by the area under the sun.
-
-Thanks to Sam Altman, Patrick Collison, and Jessica Livingston for reading drafts of this.

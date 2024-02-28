@@ -68,5 +68,3 @@ YC founders aren't just inspired by one another. They also help one another. Tha
 [^4]: The _Airbnbs_ were particularly good at listening — partly because they were flexible and disciplined, but also because they'd had such a rough time during the preceding year. They were ready to listen.
 
 [^5]: The optimal unit of decisiveness depends on how long it takes to get results, and that depends on the type of problem you're solving. When you're negotiating with investors, it could be a couple days, whereas if you're building hardware it could be months.
-
-Thanks to Trevor Blackwell, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.

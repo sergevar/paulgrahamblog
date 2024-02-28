@@ -59,5 +59,3 @@ And when I talk about "wrong" motives, I don't mean morally wrong. There's nothi
 The most earnest part of Europe is Scandinavia, and not surprisingly this is also the region with the highest number of successful startups per capita.
 
 [^6]: Much of business is schleps, and probably always will be. But even being a professor is largely schleps. It would be interesting to collect statistics about the schlep ratios of different jobs, but I suspect they'd rarely be less than 30%.
-
-Thanks to Trevor Blackwell, Patrick Collison, Suhail Doshi, Jessica Livingston, Mattias Ljungman, Harj Taggar, and Kyle Vogt for reading drafts of this.

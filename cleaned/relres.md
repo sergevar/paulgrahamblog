@@ -39,5 +39,3 @@ You can even use it tactically. If I were running a startup, this would be the p
 2. There are aspects of startups where the recipe is to be actively curious. There can be times when what you're doing is almost pure discovery. Unfortunately these times are a small proportion of the whole. On the other hand, they are in research too.
 
 3. I'd almost say to most people, but I realize (a) I have no idea what most people are like, and (b) I'm pathologically optimistic about people's ability to change.
-
-Thanks to Trevor Blackwell and Jessica Livingston for reading drafts of this.

@@ -136,5 +136,3 @@ I'm not saying you should always absolutely refuse to give up your anti-dilution
 [^10]: Founders rightly dislike the sort of investor who says he's interested in investing but doesn't want to lead. There are circumstances where this is an acceptable excuse, but more often than not what it means is "No, but if you turn out to be a hot deal, I want to be able to claim retroactively I said yes."
 
 If you like a startup enough to invest in it, then invest in it. Just use the standard series AA terms and write them a check.
-
-Thanks to Sam Altman, Paul Buchheit, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.

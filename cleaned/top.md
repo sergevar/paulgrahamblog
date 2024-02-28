@@ -47,5 +47,3 @@ I suspect a lot of people aren't sure what's the top idea in their mind at any g
 [^3]: Corollary: Avoid becoming an administrator, or your job will consist of dealing with money and disputes.
 
 [^4]: Letter to Oldenburg, quoted in Westfall, Richard, Life of Isaac Newton, p. 107.
-
-Thanks to Sam Altman, Patrick Collison, Jessica Livingston, and Robert Morris for reading drafts of this.

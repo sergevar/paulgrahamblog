@@ -35,5 +35,3 @@ There are of course examples of startups that have succeeded without having the 
 [^2]: The liking you have for a name that has become part of your identity manifests itself not directly, which would be easy to discount, but as a collection of specious beliefs about its intrinsic qualities. (This too is true of nationality and religion as well.)
 
 [^3]: Sometimes founders know it's a problem that they don't have the .com of their name, but delusion strikes a step later in the belief that they'll be able to buy it despite having no evidence it's for sale. Don't believe a domain is for sale unless the owner has already told you an asking price.
-
-Thanks to Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this.

@@ -31,5 +31,3 @@ Talks are also good at motivating me to do things. It's probably no coincidence 
 [3] Robert Morris points out that there is a way in which practicing talks makes them better: reading a talk out loud can expose awkward parts. I agree and in fact I read most things I write out loud at least once for that reason.
 
 [4] For sufficiently small audiences, it may not be true that being part of an audience makes people dumber. The real decline seems to set in when the audience gets too big for the talk to feel like a conversation — maybe around 10 people.
-
-Thanks to Sam Altman and Robert Morris for reading drafts of this.

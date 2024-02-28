@@ -89,5 +89,3 @@ Curiously enough, the solution to the problem of judging early work too harshly 
 > treat new things as experiments. That way there's no such thing as failing, since you learn something no matter what. You treat it like an experiment in the sense that if it really rules something out, you give up and move on, but if there's some way to vary it to make it work better, go ahead and do that
 
 [^8]: Michael Nielsen points out that the internet has made this easier, because you can see programmers' first commits, musicians' first videos, and so on.
-
-Thanks to Trevor Blackwell, John Carmack, Patrick Collison, Jessica Livingston, Michael Nielsen, and Lisa Randall for reading drafts of this.

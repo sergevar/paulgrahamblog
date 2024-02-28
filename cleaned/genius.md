@@ -98,7 +98,3 @@ Will it have any effect? I have no idea. But that uncertainty may be the most in
    Newton tripped over this distinction when he chose to work on theology. His beliefs did not allow him to see it, but chasing down paradoxes in nature is fruitful in a way that chasing down paradoxes in sacred texts is not.
 
 8. How much of people's propensity to become interested in a topic is inborn? My experience so far suggests the answer is: most of it. Different kids get interested in different things, and it's hard to make a child interested in something they wouldn't otherwise be. Not in a way that sticks. The most you can do on behalf of a topic is to make sure it gets a fair showing — to make it clear to them, for example, that there's more to math than the dull drills they do in school. After that it's up to the child.
-
-## Thanks to
-
-Marc Andreessen, Trevor Blackwell, Patrick Collison, Kevin Lacker, Jessica Livingston, Jackie McDonough, Robert Morris, Lisa Randall, Zak Stone, and *my 7 year old* for reading drafts of this.

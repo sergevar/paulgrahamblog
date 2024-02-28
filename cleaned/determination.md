@@ -61,5 +61,3 @@ Indeed, if you want to create the most **wealth**, the way to do it is to focus 
 Conversely, it's probably a mistake to do as some European countries have done and try to ensure none of your universities is significantly better than the others.
 
 [^3]: For example, willfulness clearly has two subcomponents, stubbornness and energy. The first alone yields someone who's stubbornly inert. The second alone yields someone flighty. As willful people get older or otherwise lose their energy, they tend to become merely stubborn.
-
-Thanks to Sam Altman, Jessica Livingston, and Robert Morris for reading drafts of this.

@@ -33,5 +33,3 @@ Fortunately that future is not limited to the startup world. The startup world i
 [1] I'm not saying that if you sort investors by benevolence you've also sorted them by returns, but rather that if you do a scatterplot with benevolence on the x axis and returns on the y, you'd see a clear upward trend.
 
 [2] Y Combinator in particular, because it aggregates data from so many startups, has a pretty comprehensive view of investor behavior.
-
-Thanks to Sam Altman and Jessica Livingston for reading drafts of this.

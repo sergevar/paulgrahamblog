@@ -138,5 +138,3 @@ Geometry and the Imagination by Hilbert and Cohn-Vossen. And for those intereste
 So if you want to get into grad school in the sciences, you need to go to college somewhere with real research professors. Otherwise you'll seem a risky bet to admissions committees, no matter how good you are.
 
 Which implies a surprising but apparently inevitable consequence: little liberal arts colleges are doomed. Most smart high school kids at least consider going into the sciences, even if they ultimately choose not to. Why go to a college that limits their options?
-
-Thanks to Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, and several **anonymous CS professors** for reading drafts of this, and to the students whose questions began it.

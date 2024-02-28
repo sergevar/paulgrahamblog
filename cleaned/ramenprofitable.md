@@ -56,6 +56,7 @@ It's ok to do a little consulting-type work at first. Startups usually have to d
 
 Please do not take the term literally. Living on instant ramen would be very unhealthy. Rice and beans are a better source of food. Start by investing in a rice cooker, if you don't have one.
 
+```
 Rice and Beans for 2n
   olive oil or butter
   n yellow onions
@@ -69,6 +70,7 @@ Rice and Beans for 2n
 Put rice in rice cooker. Add water as specified on rice package. (Default: 2 cups water per cup of rice.) Turn on rice cooker and forget about it.
 
 Chop onions and other vegetables and fry in oil, over fairly low heat, till onions are glassy. Put in chopped garlic, pepper, cumin, and a little more fat, and stir. Keep heat low. Cook another 2 or 3 minutes, then add beans (don't drain the beans), and stir. Throw in the bouillon cube(s), cover, and cook on lowish heat for at least 10 minutes more. Stir vigilantly to avoid sticking.
+```
 
 If you want to save money, buy beans in giant cans from discount stores. Spices are also much cheaper when bought in bulk. If there's an Indian grocery store near you, they'll have big bags of cumin for the same price as the little jars in supermarkets.
 
@@ -77,5 +79,3 @@ If you want to save money, buy beans in giant cans from discount stores. Spices 
 Investors are one of the biggest sources of pain for founders; if they stopped causing so much pain, it would be better to be a founder; and if it were better to be a founder, more people would do it.
 
 [^3]: It's conceivable that a startup could grow big by transforming consulting into a form that would scale. But if they did that they'd really be a product company.
-
-Thanks to Jessica Livingston for reading drafts of this.

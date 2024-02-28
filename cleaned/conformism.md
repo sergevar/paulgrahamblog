@@ -65,5 +65,3 @@ But I'm hopeful long term. The independent-minded are good at protecting themsel
 [^4]: There has been progress in one area: the punishments for talking about banned ideas are less severe than in the past. There's little danger of being killed, at least in richer countries. The aggressively conventional-minded are mostly satisfied with getting people fired.
 
 [^5]: Many professors are independent-minded — especially in math, the hard sciences, and engineering, where you have to be to succeed. But students are more representative of the general population, and thus mostly conventional-minded. So when professors and students are in conflict, it's not just a conflict between generations but also between different types of people.
-
-Thanks to Sam Altman, Trevor Blackwell, Nicholas Christakis, Patrick Collison, Sam Gichuru, Jessica Livingston, Patrick McKenzie, Geoff Ralston, and Harj Taggar for reading drafts of this.

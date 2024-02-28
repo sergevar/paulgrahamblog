@@ -49,5 +49,3 @@ If you do want to sell, there's another set of techniques for doing that. But th
 [^2]: In a startup, as in most competitive sports, the task at hand almost does this for you; you're too busy to feel tired. But when you lose that protection, e.g. at the final whistle, the fatigue hits you like a wave. To talk to corp dev is to let yourself feel it mid-game.
 
 [^3]: To be fair, the apparent misdeeds of corp dev people are magnified by the fact that they function as the face of a large organization that often doesn't know its own mind. Acquirers can be surprisingly indecisive about acquisitions, and their flakiness is indistinguishable from dishonesty by the time it filters down to you.
-
-Thanks to Marc Andreessen, Jessica Livingston, Geoff Ralston, and Qasar Younis for reading drafts of this.

@@ -33,5 +33,3 @@ There's nothing more valuable than an unmet need that is just becoming fixable. 
 [^2]: In retrospect, we should have become direct marketers. If I were doing Viaweb again, I'd open our own online store. If we had, we'd have understood users a lot better. I'd encourage anyone starting a startup to become one of its users, however unnatural it seems.
 
 [^3]: Possible exception: It's hard to compete directly with open source software. You can build things for programmers, but there has to be some part you can charge for.
-
-Thanks to Sam Altman, Trevor Blackwell, and Jessica Livingston for reading drafts of this.

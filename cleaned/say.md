@@ -182,7 +182,3 @@ Especially if you hear yourself using them. It's not just the mob you need to le
 You have to take that extra step if you want to think clearly. But it's harder, because now you're working against social customs instead of with them. Everyone encourages you to grow up to the point where you can discount your own bad moods. Few encourage you to continue to the point where you can discount society's bad moods.
 
 How can you see the wave, when you're the water? Always be questioning. That's the only defence. What can't you say? And why?
-
-**Notes**
-
-Thanks to Sarah Harlin, Trevor Blackwell, Jessica Livingston, Robert Morris, Eric Raymond and Bob van der Zwaan for reading drafts of this essay, and to Lisa Randall, Jackie McDonough, Ryan Stanley and Joel Rainey for conversations about heresy. Needless to say they bear no blame for opinions expressed in it, and especially for opinions not expressed in it.

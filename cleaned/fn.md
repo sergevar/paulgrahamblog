@@ -39,5 +39,3 @@ If you do choose the ambitious route, you'll have a tailwind behind you. There h
 [^3]: If success neutralizes bitterness, why are there some people who are at least moderately successful and yet still quite bitter? Because people's potential bitterness varies depending on how naturally bitter their personality is, and how ambitious they are: someone who's naturally very bitter will still have a lot left after success neutralizes some of it, and someone who's very ambitious will need proportionally more success to satisfy that ambition.
 
 So the worst-case scenario is someone who's both naturally bitter and extremely ambitious, and yet only moderately successful.
-
-Thanks to Trevor Blackwell, Steve Blank, Patrick Collison, Jessica Livingston, Amjad Masad, and Robert Morris for reading drafts of this.

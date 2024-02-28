@@ -20,7 +20,9 @@ So if you want to discover things that have been overlooked till now, one really
 Conversely, if you have to choose between two theories, prefer the one that doesn't center on you.
 
 This principle isn't only for big ideas. It works in everyday life, too. For example, suppose you're saving a piece of cake in the fridge, and you come home one day to find your housemate has eaten it. Two possible theories:
+
 a) Your housemate did it deliberately to upset you. He knew you were saving that piece of cake.
+
 b) Your housemate was hungry.
 
 I say pick b. No one knows who said "never attribute to malice what can be explained by incompetence," but it is a powerful idea. Its more general version is our answer to the Greeks:

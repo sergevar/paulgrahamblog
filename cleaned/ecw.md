@@ -41,5 +41,3 @@ It's hard enough already not to become the prisoner of your own expertise, but i
 [3] In practice "sufficiently expert" doesn't require one to be recognized as an expert—which is a trailing indicator in any case. In many fields a year of focused work plus caring a lot would be enough.
 
 [4] Though they are public and persist indefinitely, comments on e.g. forums and places like Twitter seem empirically to work like casual conversation. The threshold may be whether what you write has a title.
-
-Thanks to Sam Altman, Patrick Collison, and Robert Morris for reading drafts of this.

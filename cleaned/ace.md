@@ -101,6 +101,3 @@ Users are what the partners want to know about in YC interviews, and what I want
 [^3]: I myself took the first sufficiently large acquisition offer in my first startup, so I don't blame founders for doing this. There's nothing wrong with starting a startup to make money. You need to make money somehow, and for some people startups are the most efficient way to do it. I'm just saying that these are not the startups that get really big.
 
 [^4]: Not these days, anyway. There were some big ones during the Internet Bubble, and indeed some big IPOs.
-
-Thanks to Trevor Blackwell, Jessica Livingston
-Livingston, Robert Morris, Geoff Ralston, and Harj Taggar for reading drafts of this.

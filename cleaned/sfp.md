@@ -111,5 +111,3 @@ If I'm right, "hacker" will mean something different in twenty years than it doe
 [1] By heavy-duty security I mean efforts to protect against truly determined attackers.
 
 The image shows us, the 2005 summer founders, and Smartleaf co-founders Mark Nitzberg and Olin Shivers at the 30-foot table Kate Courteau designed for us. Photo by Alex Lewin.
-
-Thanks to Sarah Harlin, Steve Huffman, Jessica Livingston, Zak Stone, and Aaron Swartz for reading drafts of this.

@@ -15,5 +15,3 @@ It wouldn't be the first time something was a bad idea till it wasn't. And it wo
 So if you want to work on hardware, don't be deterred from doing it because you worry investors will discriminate against you. And in particular, don't be deterred from *applying* to Y Combinator with a hardware idea, because we're especially interested in hardware startups.
 
 We know there's room for the *next Steve Jobs*. But there's almost certainly also room for the first <Your Name Here>.
-
-Thanks to Sam Altman, Trevor Blackwell, David Cann, Sanjay Dastoor, Paul Gerhardt, Cameron Robertson, Harj Taggar, and Garry Tan for reading drafts of this.

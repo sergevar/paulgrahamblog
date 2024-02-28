@@ -17,5 +17,3 @@ In 1938 Buckminster Fuller coined the term ephemeralization to describe the incr
 I worry about the power Apple could have with this force behind them. I don't want to see another era of client monoculture like the Microsoft one in the 80s and 90s. But if ephemeralization is one of the main forces driving the spread of tablets, that suggests a way to compete with Apple: be a better platform for it.
 
 It has turned out to be a great thing that Apple tablets have accelerometers in them. Developers have used the accelerometer in ways Apple could never have imagined. That's the nature of platforms. The more versatile the tool, the less you can predict how people will use it. So tablet makers should be thinking: what else can we put in there? Not merely hardware, but software too. What else can we give developers access to? Give hackers an inch and they'll take you a mile.
-
-Thanks to Sam Altman, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.

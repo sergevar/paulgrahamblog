@@ -21,5 +21,3 @@ So one way to express the correct answer is to use a regular expression. You can
 [^1]: I didn't know when I was 9 that matter might behave randomly, but I don't think it affects the problem much. Randomness destroys the ghost in the machine as effectively as determinism.
 
 [^2]: If you don't like using an expression, you can make the same point using higher-order desires: There is some n such that you don't control your nth-order desires.
-
-Thanks to Trevor Blackwell, Jessica Livingston, Robert Morris, and Michael Nielsen for reading drafts of this.

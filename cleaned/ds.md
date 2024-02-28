@@ -144,5 +144,3 @@ In the best case, both components of the vector contribute to your company's DNA
 [^11]: Google grew big on the back of Yahoo, but that wasn't a partnership. Yahoo was their customer.
 
 [^12]: It will also remind founders that an idea where the second component is empty — an idea where there is nothing you can do to get going, e.g. because you have no way to find users to recruit manually — is probably a bad idea, at least for those founders.
-
-Thanks to Sam Altman, Paul Buchheit, Patrick Collison, Kevin Hale, Steven Levy, Jessica Livingston, Geoff Ralston, and Garry Tan for reading drafts of this.
