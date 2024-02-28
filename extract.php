@@ -2,12 +2,21 @@
 
 $lines = [];
 
-foreach (glob("./cleaned/*.txt") as $filename) {
+foreach (glob("./cleaned/*.md") as $filename) {
     echo "$filename size " . filesize($filename) . "\n";
 
-    $file = file_get_contents($filename);
+    $file = file($filename);
 
-    $lines[] = json_encode(["line" => $file]);
+    $firstLine = $file[0];
+
+    $theRest = implode("\n", array_slice($file, 1));
+
+    // make sure first line starts with #
+    if (!preg_match('/^#/', $firstLine)) {
+        throw new \Exception("First line does not start with #");
+    }
+
+    $lines[] = json_encode(["input" => trim($firstLine), "output" => trim($theRest)]);
 }
 
 file_put_contents("ALL_PAUL_GRAHAM.jsonl", implode("\n", $lines));
