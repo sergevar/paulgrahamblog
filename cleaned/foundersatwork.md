@@ -1,8 +1,8 @@
 # Learning from Founders
 
-January 2007
+_January 2007_
 
-(Foreword to Jessica Livingston's _Founders at Work._)
+_(Foreword to Jessica Livingston's **Founders at Work.**)_
 
 Apparently sprinters reach their highest speed right out of the blocks, and spend the rest of the race slowing down. The winners slow down the least. It's that way with most startups too. The earliest phase is usually the most productive. That's when they have the really big ideas. Imagine what Apple was like when 100% of its employees were either Steve Jobs or Steve Wozniak.
 

@@ -1,6 +1,6 @@
 # The Trouble with the Segway
 
-July 2009
+_July 2009_
 
 The Segway hasn't delivered on its initial promise, to put it mildly. There are several reasons why, but one is that people don't want to be seen riding them. Someone riding a Segway looks like a dork.
 

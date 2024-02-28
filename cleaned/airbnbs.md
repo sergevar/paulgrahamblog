@@ -1,6 +1,6 @@
 # The Airbnbs
 
-December 2020
+_December 2020_
 
 To celebrate Airbnb's IPO and to help future founders, I thought it might be useful to explain what was special about Airbnb.
 

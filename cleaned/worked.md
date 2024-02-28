@@ -1,6 +1,6 @@
 # What I Worked On
 
-February 2021
+_February 2021_
 
 Before college the two main things I worked on, outside of school, were writing and programming. I didn't write essays. I wrote what beginning writers were supposed to write then, and probably still are: short stories. My stories were awful. They had hardly any plot, just characters with strong feelings, which I imagined made them deep.
 

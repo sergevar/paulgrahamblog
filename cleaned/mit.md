@@ -1,10 +1,8 @@
 # A Student's Guide to Startups
 
-Want to start a startup? Get funded by Y Combinator.
+_October 2006_
 
-October 2006
-
-(This essay is derived from a talk at MIT.)
+_(This essay is derived from a talk at MIT.)_
 
 Till recently graduating seniors had two choices: get a job or go to grad school. I think there will increasingly be a third option: to start your own startup. But how common will that be?
 

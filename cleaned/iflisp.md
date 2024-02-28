@@ -1,6 +1,6 @@
 # If Lisp is So Great
 
-May 2003
+_May 2003_
 
 If Lisp is so great, why don't more people use it? I was asked this question by a student in the audience at a talk I gave recently. Not for the first time, either.
 

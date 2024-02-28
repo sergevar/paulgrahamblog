@@ -1,6 +1,6 @@
 # What Doesn't Seem Like Work?
 
-January 2015
+_January 2015_
 
 My father is a mathematician. For most of my childhood he worked for Westinghouse, modelling nuclear reactors.
 

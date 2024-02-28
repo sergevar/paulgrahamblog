@@ -1,6 +1,6 @@
 # Java's Cover
 
-April 2001
+_April 2001_
 
 This essay developed out of conversations I've had with several other programmers about why Java smelled suspicious. It's not a critique of Java! It is a case study of hacker's radar.
 

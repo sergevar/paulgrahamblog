@@ -1,6 +1,6 @@
 # The Venture Capital Squeeze
 
-November 2005
+_November 2005_
 
 In the next few years, venture capital funds will find themselves squeezed from four directions. They're already stuck with a seller's market, because of the huge amounts they raised at the end of the Bubble and still haven't invested. This by itself is not the end of the world. In fact, it's just a more extreme version of the norm in the VC business: too much money chasing too few deals.
 

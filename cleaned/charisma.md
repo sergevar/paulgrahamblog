@@ -1,6 +1,6 @@
 # It's Charisma, Stupid
 
-November 2004, corrected June 2006
+_November 2004, corrected June 2006_
 
 Occam's razor says we should prefer the simpler of two explanations. I begin by reminding readers of this principle because I'm about to propose a theory that will offend both liberals and conservatives. But Occam's razor means, in effect, that if you want to disagree with it, you have a hell of a coincidence to explain.
 

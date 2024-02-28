@@ -1,6 +1,6 @@
 # Founder Control
 
-December 2010
+_December 2010_
 
 Someone we funded is talking to VCs now, and asked me how common it was for a startup's founders to retain control of the board after a series A round. He said VCs told him this almost never happened.
 

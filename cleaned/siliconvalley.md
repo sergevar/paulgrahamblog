@@ -1,8 +1,8 @@
 # How to Be Silicon Valley
 
-May 2006
+_May 2006_
 
-(This essay is derived from a keynote at Xtech.)
+_(This essay is derived from a keynote at Xtech.)_
 
 Could you reproduce Silicon Valley elsewhere, or is there something unique about it?
 

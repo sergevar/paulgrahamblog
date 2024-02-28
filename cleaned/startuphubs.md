@@ -1,6 +1,6 @@
 # Why to Move to a Startup Hub
 
-October 2007
+_October 2007_
 
 After the last talk I gave, one of the organizers got up on the stage to deliver an impromptu rebuttal. That never happened before. I only heard the first few sentences, but that was enough to tell what I said that upset him: that startups would do better if they moved to Silicon Valley.
 

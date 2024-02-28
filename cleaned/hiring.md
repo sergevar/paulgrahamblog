@@ -1,6 +1,6 @@
 # Hiring is Obsolete
 
-May 2005
+_May 2005_
 
 (This essay is derived from a talk at the Berkeley CSUA.)
 

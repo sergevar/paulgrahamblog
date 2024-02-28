@@ -1,8 +1,8 @@
 # What Startups Are Really Like
 
-October 2009
+_October 2009_
 
-(This essay is derived from a talk at the 2009 Startup School.)
+_(This essay is derived from a talk at the 2009 Startup School.)_
 
 I wasn't sure what to talk about at Startup School, so I decided to ask the founders of the startups we'd funded. What hadn't I written about yet?
 

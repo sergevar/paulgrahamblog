@@ -1,6 +1,6 @@
 # Coronavirus and Credibility
 
-April 2020
+_April 2020_
 
 I recently saw a video of TV journalists and politicians confidently saying that the coronavirus would be no worse than the flu. What struck me about it was not just how mistaken they seemed, but how daring. How could they feel safe saying such things?
 

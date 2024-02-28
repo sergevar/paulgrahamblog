@@ -1,6 +1,6 @@
 # The Fatal Pinch
 
-December 2014
+_December 2014_
 
 Many startups go through a point a few months before they die where although they have a significant amount of money in the bank, they're also losing a lot each month, and revenue growth is either nonexistent or mediocre. The company has, say, 6 months of runway. Or to put it more brutally, 6 months before they're out of business. They expect to avoid that by raising more from investors.
 

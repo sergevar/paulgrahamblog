@@ -1,6 +1,6 @@
 # Superlinear Returns
 
-October 2023
+_October 2023_
 
 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear.
 

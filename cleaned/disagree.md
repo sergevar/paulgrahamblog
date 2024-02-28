@@ -1,6 +1,6 @@
 # How to Disagree
 
-March 2008
+_March 2008_
 
 The web is turning writing into a conversation. Twenty years ago, writers wrote and readers read. The web lets readers respond, and increasingly they do—in comment threads, on forums, and in their own blog posts.
 

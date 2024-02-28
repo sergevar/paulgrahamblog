@@ -1,6 +1,6 @@
 # A Fundraising Survival Guide
 
-August 2008
+_August 2008_
 
 Raising money is the second hardest part of starting a startup. The hardest part is making something people want: most startups that die, die because they didn't do that. But the second biggest cause of death is probably the difficulty of raising money. Fundraising is brutal.
 

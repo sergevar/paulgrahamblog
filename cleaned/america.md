@@ -1,8 +1,8 @@
 # Why Startups Condense in America
 
-May 2006
+_May 2006_
 
-(This essay is derived from a keynote at Xtech.)
+_(This essay is derived from a keynote at Xtech.)_
 
 Startups happen in clusters. There are a lot of them in Silicon Valley and Boston, and few in Chicago or Miami. A country that wants startups will probably also have to reproduce whatever makes these clusters form.
 

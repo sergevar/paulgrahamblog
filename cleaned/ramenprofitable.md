@@ -1,6 +1,6 @@
 # Ramen Profitable
 
-July 2009
+_July 2009_
 
 Now that the term "ramen profitable" has become widespread, I ought to explain precisely what the idea entails.
 

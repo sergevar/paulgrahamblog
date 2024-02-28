@@ -1,6 +1,6 @@
 # The Ronco Principle
 
-January 2015
+_January 2015_
 
 No one, VC or angel, has invested in more of the top startups than Ron Conway. He knows what happened in every deal in the Valley, half the time because he arranged it.
 

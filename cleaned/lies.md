@@ -1,6 +1,6 @@
 # Lies We Tell Kids
 
-May 2008
+_May 2008_
 
 Adults lie constantly to kids. I'm not saying we should stop, but I think we should at least examine which lies we tell and why.
 

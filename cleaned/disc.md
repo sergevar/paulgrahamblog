@@ -1,6 +1,6 @@
 # The Risk of Discovery
 
-January 2017
+_January 2017_
 
 Because biographies of famous scientists tend to edit out their mistakes, we underestimate the degree of risk they were willing to take. And because anything a famous scientist did that wasn't a mistake has probably now become the conventional wisdom, those choices don't seem risky either.
 

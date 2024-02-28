@@ -1,6 +1,6 @@
 # Writing and Speaking
 
-March 2012
+_March 2012_
 
 I'm not a very good speaker. I say "um" a lot. Sometimes I have to pause when I lose my train of thought. I wish I were a better speaker. But I don't wish I were a better speaker like I wish I were a better writer. What I really want is to have good ideas, and that's a much bigger part of being a good writer than being a good speaker.
 

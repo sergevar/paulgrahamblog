@@ -1,6 +1,6 @@
 # Can You Buy a Silicon Valley? Maybe.
 
-February 2009
+_February 2009_
 
 A lot of cities look at Silicon Valley and ask "How could we make something like that happen here?" The organic way to do it is to establish a first-rate university in a place where rich people want to live. That's how Silicon Valley happened. But could you shortcut the process by funding startups?
 

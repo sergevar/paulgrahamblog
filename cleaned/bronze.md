@@ -1,6 +1,6 @@
 # Why Smart People Have Bad Ideas
 
-April 2005
+_April 2005_
 
 This summer, as an experiment, some friends and I are giving **seed funding** to a bunch of new startups. It's an experiment because we're prepared to fund younger founders than most investors would. That's why we're doing it during the summer—so even college students can participate.
 

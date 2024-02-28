@@ -1,7 +1,8 @@
 # Programming Bottom-Up
 
-1993  
-(This essay is from the introduction to _On Lisp_.)
+_1993_
+
+_(This essay is from the introduction to **On Lisp**.)_
 
 It's a long-standing principle of programming style that the functional elements of a program should not be too large. If some component of a program grows beyond the stage where it's readily comprehensible, it becomes a mass of complexity which conceals errors as easily as a big city conceals fugitives. Such software will be hard to read, hard to test, and hard to debug.
 

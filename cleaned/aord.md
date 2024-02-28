@@ -1,6 +1,6 @@
 # Default Alive or Default Dead?
 
-October 2015
+_October 2015_
 
 When I talk to a startup that's been operating for more than 8 or 9 months, the first thing I want to know is almost always the same. Assuming their expenses remain constant and their revenue growth is what it has been over the last several months, do they make it to profitability on the money they have left? Or to put it more dramatically, by default do they live or die?
 

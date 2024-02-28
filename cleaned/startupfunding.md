@@ -1,7 +1,6 @@
 # How to Fund a Startup
 
-Want to start a startup? Get funded by Y Combinator.
-November 2005
+_November 2005_
 
 Venture funding works like gears. A typical startup goes through several rounds of funding, and at each round you want to take just enough money to reach the speed where you can shift into the next gear.
 

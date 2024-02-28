@@ -1,6 +1,6 @@
 # Earnestness
 
-December 2020
+_December 2020_
 
 Jessica and I have certain words that have special significance when we're talking about startups. The highest compliment we can pay to founders is to describe them as "earnest." This is not by itself a guarantee of success. You could be earnest but incapable. But when founders are both formidable (another of our words) and earnest, they're as close to unstoppable as you get.
 

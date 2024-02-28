@@ -1,6 +1,6 @@
 # Revenge of the Nerds
 
-May 2002
+_May 2002_
 
 "We were after the C++ programmers. We managed to drag a lot of them about halfway to Lisp."
 

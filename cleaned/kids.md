@@ -1,6 +1,6 @@
 # Having Kids
 
-December 2019
+_December 2019_
 
 Before I had kids, I was afraid of having kids. Up to that point I felt about kids the way the young Augustine felt about living virtuously. I'd have been sad to think I'd never have children. But did I want them now? No.
 

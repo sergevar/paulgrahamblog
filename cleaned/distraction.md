@@ -1,8 +1,8 @@
-Disconnecting Distraction
+# Disconnecting Distraction
 
 > Note: The strategy described at the end of this essay didn't work. It would work for a while, and then I'd gradually find myself using the Internet on my work computer. I'm trying other strategies now, but I think this time I'll wait till I'm sure they work before writing about them.
 
-May 2008
+_May 2008_
 
 Procrastination feeds on distractions. Most people find it uncomfortable just to sit and do nothing; you avoid work by doing something else.
 

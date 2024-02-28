@@ -1,6 +1,6 @@
 # Trolls
 
-February 2008
+_February 2008_
 
 A user on Hacker News recently posted a comment that set me thinking:
 

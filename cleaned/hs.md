@@ -1,6 +1,6 @@
 # What You'll Wish You'd Known
 
-January 2005
+_January 2005_
 
 (I wrote this talk for a high school. I never actually gave it, because the school authorities vetoed the plan to invite me.)
 

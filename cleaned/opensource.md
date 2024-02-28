@@ -1,8 +1,8 @@
 # What Business Can Learn from Open Source
 
-August 2005
+_August 2005_
 
-(This essay is derived from a talk at Oscon 2005.)
+_(This essay is derived from a talk at Oscon 2005.)_
 
 Lately companies have been paying more attention to open source. Ten years ago there seemed a real danger Microsoft would extend its monopoly to servers. It seems safe to say now that open source has prevented that. A recent survey found 52% of companies are replacing Windows servers with Linux servers. [^1]
 

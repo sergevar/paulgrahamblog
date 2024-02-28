@@ -1,6 +1,6 @@
 # Do Things that Don't Scale
 
-July 2013
+_July 2013_
 
 One of the most common types of advice we give at Y Combinator is to do things that don't scale. A lot of would-be founders believe that startups either take off or don't. You build something, make it available, and if you've made a better mousetrap, people beat a path to your door as promised. Or they don't, in which case the market must not exist. [^1]
 

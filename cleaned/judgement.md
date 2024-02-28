@@ -1,6 +1,6 @@
 # Two Kinds of Judgement
 
-April 2007
+_April 2007_
 
 There are two different ways people judge you. Sometimes judging you correctly is the end goal. But there's a second much more common type of judgement where it isn't. We tend to regard all judgements of us as the first type. We'd probably be happier if we realized which are and which aren't.
 

@@ -1,6 +1,6 @@
 # How to Be an Expert in a Changing World
 
-December 2014
+_December 2014_
 
 If the world were static, we could have monotonically increasing confidence in our beliefs. The more (and more varied) experience a belief survived, the less likely it would be false. Most people implicitly believe something like this about their opinions. And they're justified in doing so with opinions about things that don't change much, like human nature. But you can't trust your opinions in the same way about things that change, which could include practically everything else.
 

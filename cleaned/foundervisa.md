@@ -1,6 +1,6 @@
 # The Founder Visa
 
-April 2009
+_April 2009_
 
 I usually avoid politics, but since we now seem to have an administration that's open to suggestions, I'm going to risk making one. The single biggest thing the government could do to increase the number of startups in this country is a policy that would cost nothing: establish a new class of visa for startup founders.
 

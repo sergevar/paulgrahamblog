@@ -1,6 +1,6 @@
 # Why YC
 
-March 2006, rev August 2009
+_March 2006, rev August 2009_
 
 Yesterday one of the founders we funded asked me why we started Y Combinator. Or more precisely, he asked if we'd started YC mainly for fun.
 

@@ -1,8 +1,8 @@
 # The Hacker's Guide to Investors
 
-April 2007
+_April 2007_
 
-(This essay is derived from a keynote talk at the 2007 ASES Summit at Stanford.)
+_(This essay is derived from a keynote talk at the 2007 ASES Summit at Stanford.)_
 
 The world of investors is a foreign one to most hackers—partly because investors are so unlike hackers, and partly because they tend to operate in secret. I've been dealing with this world for many years, both as a founder and an investor, and I still don't fully understand it.
 

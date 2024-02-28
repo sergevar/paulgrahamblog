@@ -1,6 +1,6 @@
 # Hackers and Painters
 
-May 2003
+_May 2003_
 
 (This essay is derived from a guest lecture at Harvard, which incorporated an earlier talk at Northeastern.)
 

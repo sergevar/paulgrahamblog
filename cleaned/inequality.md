@@ -1,8 +1,8 @@
 # Inequality and Risk
 
-August 2005
+_August 2005_
 
-(This essay is derived from a talk at Defcon 2005.)
+_(This essay is derived from a talk at Defcon 2005.)_
 
 Suppose you wanted to get rid of economic inequality. There are two ways to do it: give money to the poor, or take it away from the rich.
 But they amount to the same thing, because if you want to give money to the poor, you have to get it from somewhere. You can't get it

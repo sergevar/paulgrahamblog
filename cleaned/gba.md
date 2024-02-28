@@ -1,6 +1,6 @@
 # The Word "Hacker"
 
-April 2004
+_April 2004_
 
 To the popular press, "hacker" means someone who breaks into computers. Among programmers it means a good programmer. But the two meanings are connected. To programmers, "hacker" connotes mastery in the most literal sense: someone who can make a computer do what he wants—whether the computer wants to or not.
 

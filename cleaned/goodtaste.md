@@ -1,8 +1,8 @@
 # Is There Such a Thing as Good Taste?
 
-November 2021
+_November 2021_
 
-(This essay is derived from a talk at the Cambridge Union.)
+_(This essay is derived from a talk at the Cambridge Union.)_
 
 When I was a kid, I'd have said there wasn't. My father told me so. Some people like some things, and other people like other things, and who's to say who's right?
 

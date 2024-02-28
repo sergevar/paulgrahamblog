@@ -1,6 +1,6 @@
 # The Other Half of "Artists Ship"
 
-November 2008
+_November 2008_
 
 One of the differences between big companies and startups is that big companies tend to have developed procedures to protect themselves against mistakes. A startup walks like a toddler, bashing into things and falling over all the time. A big company is more deliberate.
 

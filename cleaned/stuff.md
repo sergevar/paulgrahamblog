@@ -1,6 +1,6 @@
 # Stuff
 
-July 2007
+_July 2007_
 
 I have too much stuff. Most people in America do. In fact, the poorer people are, the more stuff they seem to have. Hardly anyone is so poor that they can't afford a front yard full of old cars.
 

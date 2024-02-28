@@ -1,6 +1,6 @@
 # What Kate Saw in Silicon Valley
 
-August 2009
+_August 2009_
 
 Kate Courteau is the architect who designed Y Combinator's office. Recently we managed to recruit her to help us run YC when she's not busy with architectural projects. Though she'd heard a lot about YC since the beginning, the last 9 months have been a total immersion.
 

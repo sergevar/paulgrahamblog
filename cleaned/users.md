@@ -1,6 +1,6 @@
 # What I've Learned from Users
 
-September 2022
+_September 2022_
 
 I recently told applicants to Y Combinator that the best advice I could give for getting in, per word, was
 > Explain what you've learned from users.

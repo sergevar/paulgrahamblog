@@ -1,6 +1,6 @@
 # What I've Learned from Hacker News
 
-February 2009
+_February 2009_
 
 Hacker News was two years old last week. Initially it was supposed to be a side project—an application to sharpen Arc on, and a place for current and future Y Combinator founders to exchange news. It's grown bigger and taken up more time than I expected, but I don't regret that because I've learned so much from working on it.
 

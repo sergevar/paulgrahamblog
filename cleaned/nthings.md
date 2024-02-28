@@ -1,6 +1,6 @@
 # The List of N Things
 
-September 2009
+_September 2009_
 
 I bet you the current issue of Cosmopolitan has an article whose title begins with a number. "7 Things He Won't Tell You about Sex," or something like that. Some popular magazines feature articles of this type on the cover of every issue. That can't be happening by accident. Editors must know they attract readers.
 

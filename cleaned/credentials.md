@@ -1,6 +1,6 @@
 # After Credentials
 
-December 2008
+_December 2008_
 
 A few months ago I read a New York Times article on South Korean cram schools that said
 

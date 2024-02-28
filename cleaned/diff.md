@@ -1,6 +1,7 @@
 # What Made Lisp Different
 
-December 2001 (rev. May 2002)  
+_December 2001 (rev. May 2002)_
+
 (This article came about in response to some questions on the LL1 mailing list. It is now incorporated in _Revenge of the Nerds_.)
 
 When McCarthy designed Lisp in the late 1950s, it was a radical departure from existing languages, the most important of which was Fortran.

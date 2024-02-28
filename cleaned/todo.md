@@ -1,6 +1,6 @@
 # The Top of My Todo List
 
-April 2012
+_April 2012_
 
 A palliative care nurse called Bronnie Ware made a list of the biggest regrets of the dying. Her list seems plausible. I could see myself — can see myself — making at least 4 of these 5 mistakes.
 

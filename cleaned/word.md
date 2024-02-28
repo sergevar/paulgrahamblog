@@ -1,6 +1,6 @@
 # A Word to the Resourceful
 
-January 2012
+_January 2012_
 
 A year ago I noticed a pattern in the least successful startups we'd funded: they all seemed hard to talk to. It felt as if there was some kind of wall between us. I could never quite tell if they understood what I was saying.
 

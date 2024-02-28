@@ -1,6 +1,6 @@
 # How to Think for Yourself
 
-November 2020
+_November 2020_
 
 There are some kinds of work that you can't do well without thinking differently from your peers. To be a successful scientist, for example, it's not enough just to be correct. Your ideas have to be both correct and novel. You can't publish papers saying things other people already know. You need to say things no one else has realized yet.
 

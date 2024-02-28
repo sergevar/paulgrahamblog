@@ -1,7 +1,8 @@
 # What We Look for in Founders
 
-October 2010  
-(I wrote this for Forbes, who asked me to write something about the qualities we look for in founders. In print they had to cut the last item because they didn't have room.)
+_October 2010_
+
+_(I wrote this for Forbes, who asked me to write something about the qualities we look for in founders. In print they had to cut the last item because they didn't have room.)_
 
 ## 1. Determination
 

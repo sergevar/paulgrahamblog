@@ -1,6 +1,6 @@
 # Why Twitter is a Big Deal
 
-April 2009
+_April 2009_
 
 Om Malik is the most recent of many people to ask why Twitter is such a big deal.
 

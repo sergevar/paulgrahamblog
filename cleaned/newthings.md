@@ -1,6 +1,6 @@
 # Six Principles for Making New Things
 
-February 2008
+_February 2008_
 
 The fiery reaction to the release of _Arc_ had an unexpected consequence: it made me realize I had a design philosophy. The main complaint of the more articulate critics was that Arc seemed so flimsy. After years of working on it, all I had to show for myself were a few thousand lines of macros? Why hadn't I worked on more substantial problems?
 

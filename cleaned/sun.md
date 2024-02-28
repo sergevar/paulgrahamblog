@@ -1,6 +1,6 @@
 # General and Surprising
 
-September 2017
+_September 2017_
 
 The most valuable insights are both general and surprising. F = ma for example. But general and surprising is a hard combination to achieve. That territory tends to be picked clean, precisely because those insights are so valuable.
 

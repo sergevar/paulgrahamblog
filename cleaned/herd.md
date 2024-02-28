@@ -1,6 +1,6 @@
 # Investor Herd Dynamics
 
-August 2013
+_August 2013_
 
 The biggest component in most investors' opinion of you is the opinion of other investors. Which is of course a recipe for exponential growth. When one investor wants to invest in you, that makes other investors want to, which makes others want to, and so on.
 

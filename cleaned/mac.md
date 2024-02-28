@@ -1,6 +1,6 @@
 # Return of the Mac
 
-March 2005
+_March 2005_
 
 All the best **hackers** I know are gradually switching to Macs. My friend Robert said his whole research group at MIT recently bought themselves Powerbooks. These guys are not the graphic designers and grandmas who were buying Macs at Apple's low point in the mid 1990s. They're about as hardcore OS hackers as you can get.
 

@@ -1,8 +1,8 @@
 # Undergraduation
 
-March 2005
+_March 2005_
 
-(Parts of this essay began as replies to students who wrote to me with questions.)
+_(Parts of this essay began as replies to students who wrote to me with questions.)_
 
 Recently I've had several emails from computer science undergrads asking what to do in college. I might not be the best source of advice, because I was a philosophy major in college. But I took so many CS classes that most CS majors thought I was one. I was certainly a hacker, at least.
 

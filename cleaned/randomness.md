@@ -1,6 +1,6 @@
 # See Randomness
 
-April 2006, rev August 2009
+_April 2006, rev August 2009_
 
 Plato quotes Socrates as saying "the unexamined life is not worth living." Part of what he meant was that the proper role of humans is to think, just as the proper role of anteaters is to poke their noses into anthills.
 

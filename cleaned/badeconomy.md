@@ -1,6 +1,6 @@
 # Why to Start a Startup in a Bad Economy
 
-October 2008
+_October 2008_
 
 The economic situation is apparently so grim that some experts fear we may be in for a stretch as bad as the mid seventies.
 

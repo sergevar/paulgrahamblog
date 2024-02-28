@@ -1,8 +1,8 @@
 # A Plan for Spam
 
-August 2002
+_August 2002_
 
-(This article describes the spam-filtering techniques used in the spamproof web-based mail reader we built to exercise _Arc_. An improved algorithm is described in _Better Bayesian Filtering_.)
+_(This article describes the spam-filtering techniques used in the spamproof web-based mail reader we built to exercise **Arc**. An improved algorithm is described in **Better Bayesian Filtering**.)_
 
 I think it's possible to stop spam, and that content-based filters are the way to do it. The Achilles heel of the spammers is their message. They can circumvent any other barrier you set up. They have so far, at least. But they have to deliver their message, whatever it is. If we can write software that recognizes their messages, there is no way they can get around that.
 

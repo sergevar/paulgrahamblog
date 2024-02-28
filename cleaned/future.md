@@ -1,6 +1,6 @@
 # The Future of Startup Funding
 
-August 2010
+_August 2010_
 
 Two years ago I wrote about what I called "a huge, unexploited opportunity in startup funding:" the growing disconnect between VCs, whose current business model requires them to invest large amounts, and a large class of startups that need less than they used to. Increasingly, startups want a couple hundred thousand dollars, not a couple million. [^1]
 

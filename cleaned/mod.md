@@ -1,6 +1,6 @@
 # The Two Kinds of Moderate
 
-December 2019
+_December 2019_
 
 There are two distinct ways to be politically moderate: on purpose and by accident. Intentional moderates are trimmers, deliberately choosing a position mid-way between the extremes of right and left. Accidental moderates end up in the middle, on average, because they make up their own minds about each question, and the far right and far left are roughly equally wrong.
 

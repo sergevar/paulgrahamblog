@@ -1,6 +1,6 @@
 # Design and Research
 
-January 2003
+_January 2003_
 
 (This article is derived from a keynote talk at the fall 2002 meeting of NEPLS.)
 

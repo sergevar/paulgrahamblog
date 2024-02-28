@@ -1,6 +1,6 @@
 # Relentlessly Resourceful
 
-March 2009
+_March 2009_
 
 A couple days ago I finally got being a good startup founder down to two words: relentlessly resourceful.
 

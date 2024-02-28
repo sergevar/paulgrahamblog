@@ -1,6 +1,6 @@
 # A Project of One's Own
 
-June 2021
+_June 2021_
 
 A few days ago, on the way home from school, my nine-year-old son told me he couldn't wait to get home to write more of the story he was working on. This made me as happy as anything I've heard him say — not just because he was excited about his story, but because he'd discovered this way of working. Working on a project of your own is as different from ordinary work as skating is from walking. It's more fun, but also much more productive.
 

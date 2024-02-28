@@ -1,6 +1,6 @@
 # Bradley's Ghost
 
-November 2004
+_November 2004_
 
 A lot of people are writing now about why Kerry lost. Here I want to examine a more specific question: why were the exit polls so wrong?
 

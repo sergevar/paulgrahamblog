@@ -1,6 +1,6 @@
 # The Other Road Ahead
 
-September 2001
+_September 2001_
 
 (This article explains why much of the next generation of software may be server-based, what that will mean for programmers, and why this new kind of software is a great opportunity for startups. It's derived from a talk at BBN Labs.)
 

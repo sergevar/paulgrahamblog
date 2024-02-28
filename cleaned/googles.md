@@ -1,6 +1,6 @@
 # Why There Aren't More Googles
 
-April 2008
+_April 2008_
 
 Umair Haque wrote recently that the reason there aren't more Googles is that most startups get bought before they can change the world. Google, despite serious interest from Microsoft and Yahoo—what must have seemed like lucrative interest at the time—didn't sell out. Google might simply have been nothing but Yahoo's or MSN's search box.
 

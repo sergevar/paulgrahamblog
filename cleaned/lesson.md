@@ -1,6 +1,6 @@
 # The Lesson to Unlearn
 
-December 2019
+_December 2019_
 
 The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.
 

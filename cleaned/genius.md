@@ -1,6 +1,6 @@
 # The Bus Ticket Theory of Genius
 
-November 2019
+_November 2019_
 
 Everyone knows that to do great work you need both natural ability and determination. But there's a third ingredient that's not as well understood: an obsessive interest in a particular topic.
 

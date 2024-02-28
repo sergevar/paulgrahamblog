@@ -1,8 +1,8 @@
 # Better Bayesian Filtering
 
-January 2003
+_January 2003_
 
-(This article was given as a talk at the 2003 Spam Conference. It describes the work I've done to improve the performance of the algorithm described in _A Plan for Spam_, and what I plan to do in the future.)
+_(This article was given as a talk at the 2003 Spam Conference. It describes the work I've done to improve the performance of the algorithm described in **A Plan for Spam**, and what I plan to do in the future.)_
 
 The first discovery I'd like to present here is an algorithm for lazy evaluation of research papers. Just write whatever you want and don't cite any previous work, and indignant readers will send you references to all the papers you should have cited. I discovered this algorithm after "A Plan for Spam" [1] was on Slashdot.
 

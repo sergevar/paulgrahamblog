@@ -1,6 +1,6 @@
 # The Hardware Renaissance
 
-October 2012
+_October 2012_
 
 One advantage of Y Combinator's early, broad focus is that we see trends before most other people. And one of the most conspicuous trends in the last batch was the large number of hardware startups. Out of 84 companies, 7 were making hardware. On the whole they've done better than the companies that weren't.
 

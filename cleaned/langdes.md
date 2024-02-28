@@ -1,7 +1,8 @@
 # Five Questions about Language Design
 
-May 2001
-(These are some notes I made for a panel discussion on programming language design at MIT on May 10, 2001.)
+_May 2001_
+
+_(These are some notes I made for a panel discussion on programming language design at MIT on May 10, 2001.)_
 
 ## 1. Programming Languages Are for People.
 

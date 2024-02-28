@@ -1,6 +1,6 @@
 # How to Make Pittsburgh a Startup Hub
 
-April 2016
+_April 2016_
 
 (This is a talk I gave at an event called Opt412 in Pittsburgh. Much of it will apply to other towns. But not all, because as I say in the talk, Pittsburgh has some important advantages over most would-be startup hubs.)
 

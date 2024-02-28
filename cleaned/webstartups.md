@@ -1,8 +1,8 @@
 # The Future of Web Startups
 
-October 2007
+_October 2007_
 
-(This essay is derived from a keynote at FOWA in October 2007.)
+_(This essay is derived from a keynote at FOWA in October 2007.)_
 
 There's something interesting happening right now. Startups are undergoing the same transformation that technology does when it becomes cheaper.
 

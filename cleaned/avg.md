@@ -1,8 +1,8 @@
 # Beating the Averages
 
-April 2001, rev. April 2003
+_April 2001, rev. April 2003_
 
-(This article is derived from a talk given at the 2001 Franz Developer Symposium.)
+_(This article is derived from a talk given at the 2001 Franz Developer Symposium.)_
 
 In the summer of 1995, my friend Robert Morris and I started a startup called _Viaweb_. Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
 

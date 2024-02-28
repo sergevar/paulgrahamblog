@@ -1,8 +1,8 @@
 # The Hundred-Year Language
 
-April 2003
+_April 2003_
 
-(This essay is derived from a keynote talk at PyCon 2003.)
+_(This essay is derived from a keynote talk at PyCon 2003.)_
 
 It's hard to predict what life will be like in a hundred years. There are only a few things we can say with certainty. We know that everyone will drive flying cars, that zoning laws will be relaxed to allow buildings hundreds of stories tall, that it will be dark most of the time, and that women will all be trained in the martial arts. Here I want to zoom in on one detail of this picture. What kind of programming language will they use to write the software controlling those flying cars?
 

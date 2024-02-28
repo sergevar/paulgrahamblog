@@ -1,6 +1,6 @@
 # How People Get Rich Now
 
-April 2021
+_April 2021_
 
 Every year since 1982, Forbes magazine has published a list of the richest Americans. If we compare the 100 richest people in 1982 to the 100 richest in 2020, we notice some big differences.
 

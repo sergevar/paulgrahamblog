@@ -1,6 +1,6 @@
 # Post-Medium Publishing
 
-September 2009
+_September 2009_
 
 Publishers of all types, from news to music, are unhappy that consumers won't pay for content anymore. At least, that's how they see it.
 

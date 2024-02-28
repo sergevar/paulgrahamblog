@@ -1,6 +1,6 @@
 # The Age of the Essay
 
-September 2004
+_September 2004_
 
 Remember the essays you had to write in high school? Topic sentence, introductory paragraph, supporting paragraphs, conclusion. The conclusion being, say, that Ahab in Moby Dick was a Christ-like figure.
 

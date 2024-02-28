@@ -1,6 +1,6 @@
 # An NFT That Saves Lives
 
-May 2021
+_May 2021_
 
 Noora Health, a nonprofit I've supported for years, just launched a new NFT. It has a dramatic name, **Save Thousands of Lives**, because that's what the proceeds will do.
 

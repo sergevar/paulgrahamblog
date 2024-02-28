@@ -1,6 +1,6 @@
 # What the Bubble Got Right
 
-September 2004
+_September 2004_
 
 (This essay is derived from an invited talk at ICFP 2004.)
 

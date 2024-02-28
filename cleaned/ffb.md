@@ -1,6 +1,6 @@
 # Filters that Fight Back
 
-August 2003
+_August 2003_
 
 We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end.
 Richard Jowsey of death2spam now does this in borderline cases, and reports that it works well.

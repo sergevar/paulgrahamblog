@@ -1,6 +1,8 @@
-January 2020
+# Haters
 
-(I originally intended this for startup founders, who are often surprised by the attention they get as their companies grow, but it applies equally to anyone who becomes famous.)
+_January 2020_
+
+_(I originally intended this for startup founders, who are often surprised by the attention they get as their companies grow, but it applies equally to anyone who becomes famous.)_
 
 If you become sufficiently famous, you'll acquire some fans who like you too much. These people are sometimes called "fanboys," and though I dislike that term, I'm going to have to use it here. We need some word for them, because this is a distinct phenomenon from someone simply liking your work.
 

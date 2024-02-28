@@ -1,6 +1,6 @@
 # The Acceleration of Addictiveness
 
-July 2010
+_July 2010_
 
 What hard liquor, cigarettes, heroin, and crack have in common is that they're all more concentrated forms of less addictive predecessors. Most if not all the things we describe as addictive are. And the scary thing is, the process that created them is accelerating.
 

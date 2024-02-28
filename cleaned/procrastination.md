@@ -1,6 +1,6 @@
 # Good and Bad Procrastination
 
-December 2005
+_December 2005_
 
 The most impressive people I know are all terrible procrastinators. So could it be that procrastination isn't always bad?
 

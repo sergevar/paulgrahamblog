@@ -1,6 +1,6 @@
 # Subject: Airbnb
 
-March 2011
+_March 2011_
 
 Yesterday Fred Wilson published a remarkable post about missing Airbnb. VCs miss good startups all the time, but it's extraordinarily rare for one to talk about it publicly till long afterward. So that post is further evidence what a rare bird Fred is. He's probably the nicest VC I know.
 

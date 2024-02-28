@@ -1,6 +1,6 @@
 # This Year We Can End the Death Penalty in California
 
-November 2016
+_November 2016_
 
 If you're a California voter, there is an important proposition on your ballot this year: Proposition 62, which bans the death penalty.
 

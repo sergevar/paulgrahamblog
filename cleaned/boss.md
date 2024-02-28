@@ -1,6 +1,6 @@
 # You Weren't Meant to Have a Boss
 
-March 2008, rev. June 2008
+_March 2008, rev. June 2008_
 
 Technology tends to separate normal from natural. Our bodies weren't designed to eat the foods that people in rich countries eat, or to get so little exercise. There may be a similar problem with the way we work: a normal job may be as bad for us intellectually as white flour or sugar is for us physically.
 

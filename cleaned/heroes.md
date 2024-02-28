@@ -1,6 +1,6 @@
 # Some Heroes
 
-April 2008
+_April 2008_
 
 There are some topics I save up because they'll be so much fun to write about. This is one of them: a list of my heroes.
 

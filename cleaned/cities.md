@@ -1,6 +1,6 @@
 # Cities and Ambition
 
-May 2008
+_May 2008_
 
 Great cities attract ambitious people. You can sense it when you walk around one. In a hundred subtle ways, the city sends you a message: you could do more; you should try harder.
 

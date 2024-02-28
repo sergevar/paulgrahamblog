@@ -1,6 +1,6 @@
 # Economic Inequality
 
-January 2016
+_January 2016_
 
 Since the 1970s, economic inequality in the US has increased dramatically. And in particular, the rich have gotten a lot richer. Nearly everyone who writes about the topic says that economic inequality should be decreased.
 

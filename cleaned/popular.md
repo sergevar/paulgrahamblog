@@ -1,6 +1,6 @@
 # Being Popular
 
-May 2001
+_May 2001_
 
 (This article was written as a kind of business plan for a new language. So it is missing (because it takes for granted) the most important feature of a good programming language: very powerful abstractions.)
 

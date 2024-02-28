@@ -1,6 +1,6 @@
 # Is It Worth Being Wise?
 
-February 2007
+_February 2007_
 
 A few days ago I finally figured out something I've wondered about for 25 years: the relationship between wisdom and intelligence. Anyone can see they're not the same by the number of people who are smart, but not very wise. And yet intelligence and wisdom do seem related. How?
 

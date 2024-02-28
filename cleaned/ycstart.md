@@ -1,6 +1,6 @@
 # How Y Combinator Started
 
-March 2012
+_March 2012_
 
 Y Combinator's 7th birthday was March 11. As usual we were so busy we didn't notice till a few days after. I don't think we've ever managed to remember our birthday on our birthday.
 

@@ -1,6 +1,6 @@
 # Modeling a Wealth Tax
 
-August 2020
+_August 2020_
 
 Some politicians are proposing to introduce wealth taxes in addition to income and capital gains taxes. Let's try modeling the effects of various levels of wealth tax to see what they would mean in practice for a startup founder.
 

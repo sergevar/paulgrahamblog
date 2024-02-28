@@ -1,6 +1,6 @@
 # The Top Idea in Your Mind
 
-July 2010
+_July 2010_
 
 I realized recently that what one thinks about in the shower in the morning is more important than I'd thought. I knew it was a good time to have ideas. Now I'd go further: now I'd say it's hard to do a really good job on anything you don't think about in the shower.
 

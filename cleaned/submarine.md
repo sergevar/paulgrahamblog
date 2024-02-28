@@ -1,6 +1,6 @@
 # The Submarine
 
-April 2005
+_April 2005_
 
 "Suits make a corporate comeback," says the _New York Times_. Why does this sound familiar? Maybe because the suit was also back in February, September 2004, June 2004, March 2004, September 2003, November 2002, April 2002, and February 2002.
 

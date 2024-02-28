@@ -1,6 +1,6 @@
 # Organic Startup Ideas
 
-April 2010
+_April 2010_
 
 The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?
 

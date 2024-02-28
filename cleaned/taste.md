@@ -1,6 +1,6 @@
 # Taste for Makers
 
-February 2002
+_February 2002_
 
 > "...Copernicus' aesthetic objections to [equants] provided one essential motive for his rejection of the Ptolemaic system...."
 >

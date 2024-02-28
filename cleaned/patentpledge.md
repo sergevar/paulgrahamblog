@@ -1,6 +1,6 @@
 # The Patent Pledge
 
-August 2011
+_August 2011_
 
 I realized recently that we may be able to solve part of the patent problem without waiting for the government.
 

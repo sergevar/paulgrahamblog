@@ -1,6 +1,6 @@
 # The Anatomy of Determination
 
-September 2009
+_September 2009_
 
 Like all investors, we spend a lot of time trying to learn how to predict which startups will succeed. We probably spend more time thinking about it than most, because we invest the earliest. Prediction is usually all we have to rely on.
 

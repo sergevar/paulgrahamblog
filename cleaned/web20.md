@@ -1,6 +1,6 @@
-# Want to start a startup? Get funded by Y Combinator.
+# Web 2.0
 
-November 2005
+_November 2005_
 
 Does "Web 2.0" mean anything? Till recently I thought it didn't, but the truth turns out to be more complicated. Originally, yes, it was meaningless. Now it seems to have acquired a meaning. And yet those who dislike the term are probably right, because if it means what I think it does, we don't need it.
 

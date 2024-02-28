@@ -1,6 +1,6 @@
 # How to Do Great Work
 
-July 2023
+_July 2023_
 
 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it.
 

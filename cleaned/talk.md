@@ -1,6 +1,6 @@
 # Write Like You Talk
 
-October 2015
+_October 2015_
 
 Here's a simple trick for getting more people to read what you write: write in spoken language.
 

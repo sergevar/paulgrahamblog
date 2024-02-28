@@ -1,6 +1,6 @@
 # Succinctness is Power
 
-May 2002
+_May 2002_
 
 "The quantity of meaning compressed into a small space by algebraic signs, is another circumstance that facilitates the reasonings we are accustomed to carry on by their aid."
 

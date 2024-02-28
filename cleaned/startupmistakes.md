@@ -1,7 +1,6 @@
 # The 18 Mistakes That Kill Startups
 
-Want to start a startup? Get funded by Y Combinator.  
-October 2006
+_October 2006_
 
 In the Q & A period after a recent talk, someone asked what made startups fail. After standing there gaping for a few seconds I realized this was kind of a trick question. It's equivalent to asking how to make a startup succeed — if you avoid every cause of failure, you succeed — and that's too big a question to answer on the fly.
 

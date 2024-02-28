@@ -1,8 +1,8 @@
 # Are Software Patents Evil?
 
-March 2006
+_March 2006_
 
-(This essay is derived from a talk at Google.)
+_(This essay is derived from a talk at Google.)_
 
 A few weeks ago I found to my surprise that I'd been granted four patents. This was all the more surprising because I'd only applied for three. The patents aren't mine, of course. They were assigned to Viaweb, and became Yahoo's when they bought us. But the news set me thinking about the question of software patents generally.
 

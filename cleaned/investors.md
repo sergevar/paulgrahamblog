@@ -1,6 +1,6 @@
 # How to Present to Investors
 
-August 2006, rev. April 2007, September 2010
+_August 2006, rev. April 2007, September 2010_
 
 In a few days it will be Demo Day, when the startups we funded this summer present to investors. Y Combinator funds startups twice a year, in January and June. Ten weeks later we invite all the investors we know to hear them present what they've built so far.
 

@@ -1,6 +1,6 @@
 # What You Can't Say
 
-January 2004
+_January 2004_
 
 Have you ever seen an old photo of yourself and been embarrassed at the way you looked? Did we actually dress like that? We did. And we had no idea how silly we looked. It's the nature of fashion to be invisible, in the same way the movement of the earth is invisible to all of us riding on it.
 

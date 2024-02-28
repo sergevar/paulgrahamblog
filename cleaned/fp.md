@@ -1,6 +1,6 @@
 # Fashionable Problems
 
-December 2019
+_December 2019_
 
 I've seen the same pattern in many different fields: even though lots of people have worked hard in the field, only a small fraction of the space of possibilities has been explored, because they've all worked on similar things.
 

@@ -1,6 +1,6 @@
 # A Way to Detect Bias
 
-October 2015
+_October 2015_
 
 This will come as a surprise to a lot of people, but in some cases it's possible to detect bias in a selection process without knowing anything about the applicant pool. Which is exciting because among other things it means third parties can use this technique to detect bias whether those doing the selecting want them to or not.
 

@@ -1,6 +1,6 @@
 # Snapshot: Viaweb, June 1998
 
-January 2012
+_January 2012_
 
 A few hours before the Yahoo acquisition was announced in June 1998 I took a **snapshot** of **Viaweb's** site. I thought it might be interesting to look at one day.
 

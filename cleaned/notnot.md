@@ -1,8 +1,8 @@
 # Why to Not Not Start a Startup
 
-March 2007
+_March 2007_
 
-(This essay is derived from talks at the 2007 Startup School and the Berkeley CSUA.)
+_(This essay is derived from talks at the 2007 Startup School and the Berkeley CSUA.)_
 
 We've now been doing Y Combinator long enough to have some data about success rates. Our first batch, in the summer of 2005, had eight startups in it. Of those eight, it now looks as if at least four succeeded. Three have been acquired: Reddit was a merger of two, Reddit and Infogami, and a third was acquired that we can't talk about yet. Another from that batch was Loopt, which is doing so well they could probably be acquired in about ten minutes if they wanted to.
 

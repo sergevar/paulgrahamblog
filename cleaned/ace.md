@@ -1,6 +1,6 @@
 # Billionaires Build
 
-December 2020
+_December 2020_
 
 As I was deciding what to write about next, I was surprised to find that two separate essays I'd been planning to write were actually the same.
 

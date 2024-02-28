@@ -1,8 +1,8 @@
 # Startup Investing Trends
 
-June 2013
+_June 2013_
 
-(This talk was written for an audience of investors.)
+_(This talk was written for an audience of investors.)_
 
 Y Combinator has now funded 564 startups including the current batch, which has 53. The total valuation of the 287 that have valuations (either by raising an equity round, getting acquired, or dying) is about $11.7 billion, and the 511 prior to the current batch have collectively raised about $1.7 billion. [^1]
 

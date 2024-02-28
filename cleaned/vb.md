@@ -1,6 +1,6 @@
 # Life is Short
 
-January 2016
+_January 2016_
 
 Life is short, as everyone knows. When I was a kid I used to wonder about this. Is life actually short, or are we really complaining about its finiteness? Would we be just as likely to feel life was short if we lived 10 times as long?
 

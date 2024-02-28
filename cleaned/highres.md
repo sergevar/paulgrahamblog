@@ -1,6 +1,6 @@
 # The High-Res Society
 
-December 2008
+_December 2008_
 
 For nearly all of history, the success of a society was proportionate to its ability to assemble large and disciplined organizations. Those who bet on economies of scale generally won, which meant the largest organizations were the most successful ones.
 

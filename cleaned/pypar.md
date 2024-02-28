@@ -1,6 +1,6 @@
 # The Python Paradox
 
-August 2004
+_August 2004_
 
 In a recent talk I said something that upset a lot of people: that you could get smarter programmers to work on a Python project than you could to work on a Java project.
 

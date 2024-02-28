@@ -1,6 +1,6 @@
-Keep Your Identity Small
+# Keep Your Identity Small
 
-February 2009
+_February 2009_
 
 I finally realized today why politics and religion yield such uniquely useless discussions.
 

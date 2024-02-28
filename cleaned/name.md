@@ -1,6 +1,6 @@
 # Change Your Name
 
-August 2015
+_August 2015_
 
 If you have a US startup called X and you don't have x.com, you should probably change your name.
 

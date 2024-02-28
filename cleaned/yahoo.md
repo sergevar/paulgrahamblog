@@ -1,6 +1,6 @@
 # What Happened to Yahoo
 
-August 2010
+_August 2010_
 
 When I went to work for Yahoo after they bought our startup in 1998, it felt like the center of the world. It was supposed to be the next big thing. It was supposed to be what Google turned out to be.
 

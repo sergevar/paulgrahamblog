@@ -1,8 +1,8 @@
 # Made in USA
 
-November 2004
+_November 2004_
 
-(This is a new essay for the Japanese edition of _Hackers & Painters_. It tries to explain why Americans make some things well and others badly.)
+_(This is a new essay for the Japanese edition of **Hackers & Painters**. It tries to explain why Americans make some things well and others badly.)_
 
 A few years ago an Italian friend of mine travelled by train from Boston to Providence. She had only been in America for a couple weeks and hadn't seen much of the country yet. She arrived looking astonished. "It's so ugly!"
 

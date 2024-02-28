@@ -1,6 +1,6 @@
 # The Equity Equation
 
-July 2007
+_July 2007_
 
 An investor wants to give you money for a certain percentage of your startup. Should you take it? You're about to hire your first employee. How much stock should you give him?
 

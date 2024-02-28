@@ -1,6 +1,6 @@
 # After the Ladder
 
-August 2005
+_August 2005_
 
 Thirty years ago, one was supposed to work one's way up the corporate ladder. That's less the rule now. Our generation wants to get paid up front. Instead of developing a product for some big company in the expectation of getting job security in return, we develop the product ourselves, in a startup, and sell it to the big company. At the very least we want options.
 

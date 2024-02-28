@@ -1,6 +1,6 @@
 # Where to See Silicon Valley
 
-October 2010
+_October 2010_
 
 Silicon Valley proper is mostly suburban sprawl. At first glance it doesn't seem there's anything to see. It's not the sort of place that has conspicuous monuments. But if you look, there are subtle signs you're in a place that's different from other places.
 

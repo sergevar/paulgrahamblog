@@ -1,6 +1,6 @@
 # The Pooled-Risk Company Management Company
 
-July 2008
+_July 2008_
 
 At this year's startup school, David Heinemeier Hansson gave a talk in which he suggested that startup founders should do things the old fashioned way. Instead of hoping to get rich by building a valuable company and then selling stock in a "liquidity event," founders should start companies that make money and live off the revenues.
 

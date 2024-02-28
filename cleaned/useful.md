@@ -1,6 +1,6 @@
 # How to Write Usefully
 
-February 2020
+_February 2020_
 
 What should an essay be? Many people would say persuasive. That's what a lot of us were taught essays should be. But I think we can aim for something more ambitious: that an essay should be useful.
 

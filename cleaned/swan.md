@@ -1,6 +1,6 @@
 # Black Swan Farming
 
-September 2012
+_September 2012_
 
 I've done several types of work over the years but I don't know another as counterintuitive as startup investing.
 
@@ -18,7 +18,7 @@ It's a constant battle for us. It's hard to make ourselves take enough risks. Wh
 
 The probability that a startup will make it big is not simply a constant fraction of the probability that they will succeed at all. If it were, you could fund everyone who seemed likely to succeed at all, and you'd get that fraction of big hits. Unfortunately picking winners is harder than that. You have to ignore the elephant in front of you, the likelihood they'll succeed, and focus instead on the separate and almost invisibly intangible question of whether they'll succeed really big.
 
-**Harder**
+## Harder
 
 That's made harder by the fact that the best startup ideas seem at first like bad ideas. I've written about this before: if a good idea were obviously good, someone else would already have done it. So the most successful founders tend to work on ideas that few beside them realize are good. Which is not that far from a description of insanity, till you reach the point where you see results.
 
@@ -32,7 +32,7 @@ History tends to get rewritten by big successes, so that in retrospect it seems 
 
 One could have described Microsoft and Apple in exactly the same terms. [^3]
 
-**Harder Still**
+## Harder Still
 
 Wait, it gets worse. You not only have to solve this hard problem, but you have to do it with no indication of whether you're succeeding. When you pick a big winner, you won't know it for two years.
 

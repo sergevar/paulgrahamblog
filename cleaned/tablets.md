@@ -1,6 +1,6 @@
 # Tablets
 
-December 2010
+_December 2010_
 
 I was thinking recently how inconvenient it was not to have a general term for iPhones, iPads, and the corresponding things running Android. The closest to a general term seems to be "mobile devices," but that (a) applies to any mobile phone, and (b) doesn't really capture what's distinctive about the iPad.
 

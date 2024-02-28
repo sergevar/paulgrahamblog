@@ -1,6 +1,6 @@
 # Weird Languages
 
-August 2021
+_August 2021_
 
 When people say that in their experience all programming languages are basically equivalent, they're making a statement not about languages but about the kind of programming they've done.
 

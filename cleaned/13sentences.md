@@ -1,6 +1,6 @@
 # Startups in 13 Sentences
 
-February 2009
+_February 2009_
 
 One of the things I always tell startups is a principle I learned from Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy. I was saying recently to a reporter that if I could only tell startups 10 things, this would be one of them. Then I thought: what would the other 9 be?
 

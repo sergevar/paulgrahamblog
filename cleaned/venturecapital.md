@@ -1,6 +1,6 @@
 # A Unified Theory of VC Suckage
 
-March 2005
+_March 2005_
 
 A couple months ago I got an email from a recruiter asking if I was interested in being a "technologist in residence" at a new venture capital fund. I think the idea was to play Karl Rove to the VCs' George Bush.
 

@@ -1,6 +1,6 @@
 # What I Did this Summer
 
-October 2005
+_October 2005_
 
 The first Summer Founders Program has just finished. We were surprised how well it went. Overall only about 10% of startups succeed, but if I had to guess now, I'd predict three or four of the eight startups we funded will make it.
 

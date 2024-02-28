@@ -1,8 +1,8 @@
 # The Power of the Marginal
 
-June 2006
+_June 2006_
 
-(This essay is derived from talks at Usenix 2006 and Railsconf 2006.)
+_(This essay is derived from talks at Usenix 2006 and Railsconf 2006.)_
 
 A couple years ago my friend Trevor and I went to look at the Apple garage. As we stood there, he said that as a kid growing up in Saskatchewan he'd been amazed at the dedication Jobs and Wozniak must have had to work in a garage.
 

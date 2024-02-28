@@ -1,6 +1,6 @@
 # Novelty and Heresy
 
-November 2019
+_November 2019_
 
 If you discover something new, there's a significant chance you'll be accused of some form of heresy.
 

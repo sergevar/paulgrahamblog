@@ -1,8 +1,8 @@
-Could VC be a Casualty of the Recession?
+# Could VC be a Casualty of the Recession?
 
-December 2008
+_December 2008_
 
-(I originally wrote this at the request of a company producing a report about entrepreneurship. Unfortunately after reading it they decided it was too controversial to include.)
+_(I originally wrote this at the request of a company producing a report about entrepreneurship. Unfortunately after reading it they decided it was too controversial to include.)_
 
 VC funding will probably dry up somewhat during the present recession, like it usually does in bad times. But this time the result may be different. This time the number of new startups may not decrease. And that could be dangerous for VCs.
 

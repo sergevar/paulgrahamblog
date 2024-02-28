@@ -1,6 +1,6 @@
 # What Microsoft Is this the Altair Basic of?
 
-February 2015
+_February 2015_
 
 One of the most valuable exercises you can try if you want to understand startups is to look at the most successful companies and explain why they were not as lame as they seemed when they first launched. Because they practically all seemed lame at first. Not just small, lame. Not just the first step up a big mountain. More like the first step into a swamp.
 

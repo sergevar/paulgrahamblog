@@ -1,6 +1,6 @@
 # The Need to Read
 
-November 2022
+_November 2022_
 
 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious "tapes" would load it into one's brain like a program being loaded into a computer.
 

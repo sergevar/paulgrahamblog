@@ -1,6 +1,6 @@
 # How Art Can Be Good
 
-December 2006
+_December 2006_
 
 I grew up believing that taste is just a matter of personal preference. Each person has things they like, but no one's preferences are any better than anyone else's. There is no such thing as good taste.
 

@@ -1,6 +1,6 @@
 # Persuade xor Discover
 
-September 2009
+_September 2009_
 
 When meeting people you don't know very well, the convention is to seem extra friendly. You smile and say "pleased to meet you," whether you are or not. There's nothing dishonest about this. Everyone knows that these little social lies aren't meant to be taken literally, just as everyone knows that "Can you pass the salt?" is only grammatically a question.
 

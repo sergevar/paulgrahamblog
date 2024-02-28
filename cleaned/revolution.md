@@ -1,6 +1,6 @@
 # A Local Revolution?
 
-April 2009
+_April 2009_
 
 Recently I realized I'd been holding two ideas in my head that would explode if combined.
 

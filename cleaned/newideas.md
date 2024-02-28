@@ -1,6 +1,6 @@
 # Crazy New Ideas
 
-May 2021
+_May 2021_
 
 There's one kind of opinion I'd be very afraid to express publicly. If someone I knew to be both a domain expert and a reasonable person proposed an idea that sounded preposterous, I'd be very reluctant to say "That will never work."
 

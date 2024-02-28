@@ -1,6 +1,6 @@
 # Mean People Fail
 
-November 2014
+_November 2014_
 
 It struck me recently how few of the most successful people I know are mean. There are exceptions, but remarkably few.
 

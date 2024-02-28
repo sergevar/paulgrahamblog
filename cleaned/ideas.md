@@ -1,10 +1,8 @@
 # Ideas for Startups
 
-Want to start a startup? Get funded by **Y Combinator**.
+_October 2005_
 
-October 2005
-
-(This essay is derived from a talk at the 2005 **Startup School**.)
+_(This essay is derived from a talk at the 2005 **Startup School**.)_
 
 How do you get good ideas for **startups**? That's probably the number one question people ask me.
 

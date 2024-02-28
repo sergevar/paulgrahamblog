@@ -1,8 +1,8 @@
 # How to Be an Angel Investor
 
-March 2009
+_March 2009_
 
-(This essay is derived from a talk at AngelConf.)
+_(This essay is derived from a talk at AngelConf.)_
 
 When we sold our startup in 1998 I thought one day I'd do some angel investing. Seven years later I still hadn't started. I put it off because it seemed mysterious and complicated. It turns out to be easier than I expected, and also more interesting.
 

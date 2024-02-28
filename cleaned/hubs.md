@@ -1,6 +1,6 @@
 # Why Startup Hubs Work
 
-October 2011
+_October 2011_
 
 If you look at a list of US cities sorted by population, the number of successful startups per capita varies by orders of magnitude. Somehow it's as if most places were sprayed with startupicide.
 

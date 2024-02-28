@@ -1,6 +1,6 @@
 # News from the Front
 
-September 2007
+_September 2007_
 
 A few weeks ago I had a thought so heretical that it really surprised me. It may not matter all that much where you go to college.
 

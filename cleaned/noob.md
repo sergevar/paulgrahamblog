@@ -1,6 +1,6 @@
 # Being a Noob
 
-January 2020
+_January 2020_
 
 When I was young, I thought old people had everything figured out. Now that I'm old, I know this isn't true.
 

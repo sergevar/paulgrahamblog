@@ -1,8 +1,8 @@
 # How to Start a Startup
 
-March 2005
+_March 2005_
 
-(This essay is derived from a talk at the Harvard Computer Society.)
+_(This essay is derived from a talk at the Harvard Computer Society.)_
 
 You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. Most startups that fail do it because they fail at one of these. A startup that does all three will probably succeed.
 

@@ -1,6 +1,6 @@
 # Why Nerds are Unpopular
 
-February 2003
+_February 2003_
 
 When we were in junior high school, my friend Rich and I made a map of the school lunch tables according to popularity. This was easy to do, because kids only ate lunch with others of about the same popularity. We graded them from A to E. A tables were full of football players and cheerleaders and so on. E tables contained the kids with mild cases of Down's Syndrome, what in the language of the time we called "retards."
 

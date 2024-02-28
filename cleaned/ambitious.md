@@ -1,6 +1,6 @@
 # Frighteningly Ambitious Startup Ideas
 
-March 2012
+_March 2012_
 
 One of the more surprising things I've noticed while working on Y Combinator is how frightening the most ambitious startup ideas are. In this essay I'm going to demonstrate this phenomenon by describing some. Any one of them could make you a billionaire. That might sound like an attractive prospect, and yet when I describe these ideas you may notice you find yourself shrinking away from them.
 

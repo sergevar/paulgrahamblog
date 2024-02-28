@@ -1,6 +1,6 @@
 # Apple's Mistake
 
-November 2009
+_November 2009_
 
 I don't think Apple realizes how badly the App Store approval process is broken. Or rather, I don't think they realize how much it matters that it's broken.
 

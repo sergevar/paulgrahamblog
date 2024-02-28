@@ -1,6 +1,6 @@
 # Five Founders
 
-April 2009
+_April 2009_
 
 Inc recently asked me who I thought were the 5 most interesting startup founders of the last 30 years. How do you decide who's the most interesting? The best test seemed to be influence: who are the 5 who've influenced me most? Who do I use as examples when I'm talking to companies we fund? Who do I find myself quoting?
 

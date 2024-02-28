@@ -1,6 +1,6 @@
 # Schlep Blindness
 
-January 2012
+_January 2012_
 
 There are great startup ideas lying around unexploited right under our noses. One reason we don't see them is a phenomenon I call schlep blindness. Schlep was originally a Yiddish word but has passed into general use in the US. It means a tedious, unpleasant task.
 

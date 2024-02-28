@@ -1,8 +1,8 @@
 # The Hardest Lessons for Startups to Learn
 
-April 2006
+_April 2006_
 
-(This essay is derived from a talk at the 2006 Startup School.)
+_(This essay is derived from a talk at the 2006 Startup School.)_
 
 The startups we've funded so far are pretty quick, but they seem quicker to learn some lessons than others. I think it's because some things about startups are kind of counterintuitive.
 

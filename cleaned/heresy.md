@@ -1,6 +1,6 @@
 # Heresy
 
-April 2022
+_April 2022_
 
 One of the most surprising things I've witnessed in my lifetime is the rebirth of the concept of heresy.
 

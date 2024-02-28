@@ -1,6 +1,6 @@
 # An Alternative Theory of Unions
 
-May 2007
+_May 2007_
 
 People who worry about the increasing gap between rich and poor generally look back on the mid twentieth century as a golden age. In those days we had a large number of high-paying union manufacturing jobs that boosted the median income. I wouldn't quite call the high-paying union job a myth, but I think people who dwell on it are reading too much into it.
 

@@ -1,6 +1,6 @@
 # High Resolution Fundraising
 
-September 2010
+_September 2010_
 
 The reason startups have been using more convertible notes in angel rounds is that they make deals close faster. By making it easier for startups to give different prices to different investors, they help them break the sort of deadlock that happens when investors all wait to see who else is going to invest.
 

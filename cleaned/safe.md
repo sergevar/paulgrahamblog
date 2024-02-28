@@ -1,6 +1,6 @@
 # Why It's Safe for Founders to Be Nice
 
-August 2015
+_August 2015_
 
 I recently got an email from a founder that helped me understand something important: why it's safe for startup founders to be nice people.
 

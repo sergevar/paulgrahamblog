@@ -1,6 +1,6 @@
 # How to Do What You Love
 
-January 2006
+_January 2006_
 
 To do something well you have to like it. That idea is not exactly novel. We've got it down to four words: "Do what you love." But it's not enough just to tell people that. Doing what you love is complicated.
 
